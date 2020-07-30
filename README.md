@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <img align="right" alt="GIF" src="https://media.giphy.com/media/eMPormrWOvXQHSKTjO/giphy.gif" style="width:5000px;height:500px;" />
+  @linkedin
