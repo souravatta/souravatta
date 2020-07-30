@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hello viewer! I see you have sought interest in my profile. So here's some more details about me, Sourav Atta : 👋
 
 <!--
 **souravatta/souravatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img align="center" alt="GIF" src="https://giphy.com/gifs/KEGTwhqs7MKKXqwsIV" />
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/eMPormrWOvXQHSKTjO/giphy.gif" style="width:5000px;height:500px;" />
