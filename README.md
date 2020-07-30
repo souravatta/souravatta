@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 -->
   <img align="right" alt="GIF" src="https://media.giphy.com/media/eMPormrWOvXQHSKTjO/giphy.gif" style="width:5000px;height:500px;" />
   @linkedin
+  
+  > #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+> Configuration can be launched from the **Tools -> Settings** menu option.
