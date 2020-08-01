@@ -6,7 +6,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/TirsbWvjkZdEQ2aBOs/giphy.gif"/>
 
-**Know more about me :**
+**Know more about me**
 - 🏢 I’m currently working in [Wipro Technologies](https://www.wipro.com/en-IN/about-us/)
 - 🌱 I’m currently learning Cloud Native Technologies eg. Docker, K8's
 - ⚡️ Fun-Fact: Strategically lazy😎
@@ -39,7 +39,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |Monitoring and Alerting	     |![](https://img.shields.io/badge/ELK-4-orange?labelColor=7D898B) ![](https://img.shields.io/badge/Icinga-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/Grafana-3-9400D3?labelColor=7D898B)    |
 |Configuration Management	     |![](https://img.shields.io/badge/Ansible-3-9400D3?labelColor=7D898B)					                                                                                                                              |
 
-**⏳ (2020)Work From Home Status { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 46.23 %**
+**⏳ (2020)Work From Home Status { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 46.29 %**
 
-⏰ Updated on Sat, 01 Aug 2020 07:12:14 GMT
+⏰ Updated on Sat, 01 Aug 2020 10:53:08 GMT
 
