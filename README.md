@@ -4,7 +4,7 @@
 I am currently working as a DevOps engineer. As a DevOps engineer, I always try to be very tool agnostic. I do am fond of some particular tools like 
 ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmost efficiency. Apart from that, I am very much into learning old-school IT concepts.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/j2jW6AV1kdnBWD1W3g/giphy.gif"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/TirsbWvjkZdEQ2aBOs/giphy.gif"/>
 
 **Know more about me :**
 - 🏢 I’m currently working in [Wipro Technologies](https://www.wipro.com/en-IN/about-us/)
@@ -41,5 +41,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
 **⏳ Work From Home { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 46.23 %**
 
-⏰ Updated on Sat, 01 Aug 2020 06:48:06 GMT
+⏰ Updated on Sat, 01 Aug 2020 06:54:08 GMT
 
