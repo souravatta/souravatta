@@ -47,16 +47,16 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |------------------------------|-----------------------------|
 |Build Tools                   |![](https://img.shields.io/badge/Maven-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/npm-3-9400D3?labelColor=7D898B)                                                                         |
 |Code Quality                  |![](https://img.shields.io/badge/Sonarqube-4-orange?labelColor=7D898B) ![](https://img.shields.io/badge/Jacoco-1-blue?labelColor=7D898B)                                                                    |
-|Collaboration                 |![](https://img.shields.io/badge/JIRA-2-green?labelColor=7D898B)						                                                                                                                                |
+|Collaboration                 |![](https://img.shields.io/badge/JIRA-3-9400D3?labelColor=7D898B)						                                                                                                                                |
 |Containerization			         |![](https://img.shields.io/badge/Docker-3-9400D3?labelColor=7D898B)						                                                                                                                              |  
-|Test Automation			         |![](https://img.shields.io/badge/Selenium-1-blue?labelColor=7D898B)					                                                                                                                                |
+|Test Automation			         |![](https://img.shields.io/badge/Selenium-2-green?labelColor=7D898B)					                                                                                                                                |
 |Source Control Tools		       |![](https://img.shields.io/badge/GIT-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Gitlab-3-9400D3?labelColor=7D898B)				                                                                |
 |Repository Management		     |![](https://img.shields.io/badge/Nexus-3-9400D3?labelColor=7D898B)						                                                                                                                              |
 |Continuous Integration		     |![](https://img.shields.io/badge/Jenkins-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Gitlab%20CI-2-green?labelColor=7D898B)			                                                          |
 |Monitoring and Alerting	     |![](https://img.shields.io/badge/ELK-4-orange?labelColor=7D898B) ![](https://img.shields.io/badge/Icinga-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/Grafana-3-9400D3?labelColor=7D898B)    |
 |Configuration Management	     |![](https://img.shields.io/badge/Ansible-3-9400D3?labelColor=7D898B)					                                                                                                                              |
 
-**⏳ Work From Home ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %**
+**⏳ (2020)Work From Home Status ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %**
 
 ⏰ Updated on ${new Date().toUTCString()}
 \
