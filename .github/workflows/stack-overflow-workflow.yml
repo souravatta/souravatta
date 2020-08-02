@@ -1,4 +1,4 @@
-name: Stackoverflow Stats workflow
+name: Stackoverflow-Stats-CI 
 on:
   schedule:
     # Runs every hour
