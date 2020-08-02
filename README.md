@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Comment by souravatta on Sonar cube is not running. It gets stopped when launced](https://stackoverflow.com/questions/63060935/sonar-cube-is-not-running-it-gets-stopped-when-launced)
-- [Comment by souravatta on SonarQube does not indexes/find JAVA files](https://stackoverflow.com/questions/63109862/sonarqube-does-not-indexes-find-java-files)
-- [Use more than one LDAP group for authentication in Sonarqube](https://stackoverflow.com/questions/62927636/use-more-than-one-ldap-group-for-authentication-in-sonarqube)
-- [Comment by souravatta on Jenkins and SonarQube for Pipeline Gating without using the SonarQube Jenkins Plugin in bash](https://stackoverflow.com/questions/62921714/jenkins-and-sonarqube-for-pipeline-gating-without-using-the-sonarqube-jenkins-pl)
-- [Answer by souravatta for ELK - Logstash - GROK Pattern : From following log given I want to extract all the log starting from {@timestamp](https://stackoverflow.com/questions/62870888/elk-logstash-grok-pattern-from-following-log-given-i-want-to-extract-all-t/62880087#62880087)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
@@ -53,11 +48,11 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |Collaboration                 |![](https://img.shields.io/badge/JIRA-3-9400D3?labelColor=7D898B)						                                                                                                                                |
 |Containerization			         |![](https://img.shields.io/badge/Docker-3-9400D3?labelColor=7D898B)						                                                                                                                              |  
 |Test Automation			         |![](https://img.shields.io/badge/Selenium-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/TOSCA-2-green?labelColor=7D898B)					                                                                                                                                |
-|Source Control Tools		       |![](https://img.shields.io/badge/GIT-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Gitlab-3-9400D3?labelColor=7D898B)				                                                                |
+|Source Control Tools		       |![](https://img.shields.io/badge/GIT-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Gitlab-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Github-3-9400D3?labelColor=7D898B)				                                                                |
 |Repository Management		     |![](https://img.shields.io/badge/Nexus-3-9400D3?labelColor=7D898B)						                                                                                                                              |
-|Continuous Integration		     |![](https://img.shields.io/badge/Jenkins-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Gitlab%20CI-2-green?labelColor=7D898B)			                                                          |
+|Continuous Integration		     |![](https://img.shields.io/badge/Jenkins-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Gitlab%20CI-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/Github%20CI-1-blue?labelColor=7D898B)			                                                          |
 |Monitoring and Alerting	     |![](https://img.shields.io/badge/ELK-4-orange?labelColor=7D898B) ![](https://img.shields.io/badge/Icinga-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/Grafana-3-9400D3?labelColor=7D898B)    |
 |Configuration Management	     |![](https://img.shields.io/badge/Ansible-3-9400D3?labelColor=7D898B)					                                                                                                                              |
 
-⏰ Updated on Sun, 02 Aug 2020 11:07:39 GMT
+⏰ Updated on Sun, 02 Aug 2020 11:18:07 GMT
 
