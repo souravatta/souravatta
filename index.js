@@ -46,8 +46,8 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
   <br>
   <img alt="IMG" src="https://github-readme-stackoverflow.vercel.app/?userID=8854824"/>
   <br>
-  <hr>
-  <p align="right">
+  
+  <p align="right" float="right">
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
@@ -55,6 +55,8 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   </p>
  </details>
+
+ <hr>
 
 **Devops Tools**
 
