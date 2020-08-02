@@ -21,7 +21,7 @@ const readme = `\
 I am currently working as a DevOps engineer. As a DevOps engineer, I always try to be very tool agnostic. I do am fond of some particular tools like 
 ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmost efficiency. Apart from that, I am very much into learning old-school IT concepts.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/TirsbWvjkZdEQ2aBOs/giphy.gif"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/eMPormrWOvXQHSKTjO/giphy.gif"/>
 
 **Know more about me**
 - 🏢 I’m currently working in [Wipro Technologies](https://www.wipro.com/en-IN/about-us/)
