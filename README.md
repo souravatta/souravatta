@@ -1,4 +1,4 @@
-![README-CI](https://github.com/souravatta/test-readme/workflows/README-CI/badge.svg) ![Stackoverflow-Stats-CI](https://github.com/souravatta/souravatta/workflows/Stackoverflow%20Stats%20workflow/badge.svg)
+![README-CI](https://github.com/souravatta/test-readme/workflows/README-CI/badge.svg) ![Stackoverflow-Stats-CI](https://github.com/souravatta/souravatta/workflows/Stackoverflow-Stats-CI/badge.svg)
 # Hey there 👋, I am Sourav Atta
 
 I am currently working as a DevOps engineer. As a DevOps engineer, I always try to be very tool agnostic. I do am fond of some particular tools like 
@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Comment by souravatta on Sonar cube is not running. It gets stopped when launced](https://stackoverflow.com/questions/63060935/sonar-cube-is-not-running-it-gets-stopped-when-launced)
-- [Comment by souravatta on SonarQube does not indexes/find JAVA files](https://stackoverflow.com/questions/63109862/sonarqube-does-not-indexes-find-java-files)
-- [Use more than one LDAP group for authentication in Sonarqube](https://stackoverflow.com/questions/62927636/use-more-than-one-ldap-group-for-authentication-in-sonarqube)
-- [Comment by souravatta on Jenkins and SonarQube for Pipeline Gating without using the SonarQube Jenkins Plugin in bash](https://stackoverflow.com/questions/62921714/jenkins-and-sonarqube-for-pipeline-gating-without-using-the-sonarqube-jenkins-pl)
-- [Answer by souravatta for ELK - Logstash - GROK Pattern : From following log given I want to extract all the log starting from {@timestamp](https://stackoverflow.com/questions/62870888/elk-logstash-grok-pattern-from-following-log-given-i-want-to-extract-all-t/62880087#62880087)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
@@ -59,5 +54,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |Monitoring and Alerting	     |![](https://img.shields.io/badge/ELK-4-orange?labelColor=7D898B) ![](https://img.shields.io/badge/Icinga-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/Grafana-3-9400D3?labelColor=7D898B)    |
 |Configuration Management	     |![](https://img.shields.io/badge/Ansible-3-9400D3?labelColor=7D898B)					                                                                                                                              |
 
-⏰ Updated on Sun, 02 Aug 2020 10:13:00 GMT
+⏰ Updated on Sun, 02 Aug 2020 10:16:02 GMT
 
