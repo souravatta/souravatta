@@ -24,6 +24,21 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 [![Gmail Badge](https://img.shields.io/badge/-sourav.atta19395-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sourav.atta19395@gmail.com)](mailto:sourav.atta19395@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-+917827970696-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=917827970696)](https://api.whatsapp.com/send?phone=917827970696)
 
+<details>
+  <summary> Stackoverflow Stats </summary>
+  <br>
+  <img alt="IMG" src="https://github-readme-stackoverflow.vercel.app/?userID=8854824"/>
+  <br>
+  <hr>
+  <p align="right">
+
+  **StackOverflow Activity**
+  <!-- STACKOVERFLOW:START -->
+  <!-- STACKOVERFLOW:END -->
+
+  </p>
+ </details>
+
 **Devops Tools**
 
 |Types                         |Tools (x/5)                  |
@@ -39,7 +54,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |Monitoring and Alerting	     |![](https://img.shields.io/badge/ELK-4-orange?labelColor=7D898B) ![](https://img.shields.io/badge/Icinga-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/Grafana-3-9400D3?labelColor=7D898B)    |
 |Configuration Management	     |![](https://img.shields.io/badge/Ansible-3-9400D3?labelColor=7D898B)					                                                                                                                              |
 
-**⏳ (2020)Work From Home Status { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 46.29 %**
-
-⏰ Updated on Sat, 01 Aug 2020 11:07:09 GMT
+⏰ Updated on Sun, 02 Aug 2020 08:19:29 GMT
 
