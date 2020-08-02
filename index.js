@@ -45,7 +45,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
   <summary> Stackoverflow Stats </summary>
   <br>
   <img alt="IMG" src="https://github-readme-stackoverflow.vercel.app/?userID=8854824"/>
-  <br>>br>
+  <br>
   <hr>
   <p align="right">
 
