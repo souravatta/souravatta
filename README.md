@@ -34,11 +34,11 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
+- [Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python)
 - [Comment by souravatta on Error in execution of Maven project in Jenkins](https://stackoverflow.com/questions/63215924/error-in-execution-of-maven-project-in-jenkins)
 - [Comment by souravatta on sync mongo data to elastic using logstash with required fields](https://stackoverflow.com/questions/63217052/sync-mongo-data-to-elastic-using-logstash-with-required-fields)
 - [Comment by souravatta on Sonar cube is not running. It gets stopped when launced](https://stackoverflow.com/questions/63060935/sonar-cube-is-not-running-it-gets-stopped-when-launced)
 - [Comment by souravatta on SonarQube does not indexes/find JAVA files](https://stackoverflow.com/questions/63109862/sonarqube-does-not-indexes-find-java-files)
-- [Use more than one LDAP group for authentication in Sonarqube](https://stackoverflow.com/questions/62927636/use-more-than-one-ldap-group-for-authentication-in-sonarqube)
 <!-- STACKOVERFLOW:END -->
 
   </p>
