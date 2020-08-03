@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Comment by souravatta on Error in execution of Maven project in Jenkins](https://stackoverflow.com/questions/63215924/error-in-execution-of-maven-project-in-jenkins)
-- [Comment by souravatta on sync mongo data to elastic using logstash with required fields](https://stackoverflow.com/questions/63217052/sync-mongo-data-to-elastic-using-logstash-with-required-fields)
-- [Comment by souravatta on Sonar cube is not running. It gets stopped when launced](https://stackoverflow.com/questions/63060935/sonar-cube-is-not-running-it-gets-stopped-when-launced)
-- [Comment by souravatta on SonarQube does not indexes/find JAVA files](https://stackoverflow.com/questions/63109862/sonarqube-does-not-indexes-find-java-files)
-- [Use more than one LDAP group for authentication in Sonarqube](https://stackoverflow.com/questions/62927636/use-more-than-one-ldap-group-for-authentication-in-sonarqube)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
@@ -59,5 +54,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |Monitoring and Alerting	     |![](https://img.shields.io/badge/ELK-4-orange?labelColor=7D898B) ![](https://img.shields.io/badge/Icinga-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/Grafana-3-9400D3?labelColor=7D898B)    |
 |Configuration Management	     |![](https://img.shields.io/badge/Ansible-3-9400D3?labelColor=7D898B)					                                                                                                                              |
 
-⏰ Updated on Sun, 02 Aug 2020 11:18:07 GMT
+⏰ Updated on Mon, 03 Aug 2020 00:06:29 GMT
 
