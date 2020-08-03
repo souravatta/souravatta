@@ -28,8 +28,8 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 - 🌱 I’m currently learning Cloud Native Technologies eg. Docker, K8's
 - ⚡️ Fun-Fact: Strategically lazy😎
 - ⏳ Interests: Travelling, Cooking, Video Games
-- 📝[Resume](https://drive.google.com/file/d/1UE-2Qh-28ofADHblkKXirPnujfo0frm_/view?usp=drivesdk)
-- 📝[Curriculum Vitae](https://drive.google.com/file/d/1UE3hWEnmTdufNrdtELRleECS4XZ40Puy/view?usp=drivesdk)
+- 📝[Resume](https://drive.google.com/file/d/1WKBaDRkh0mF3jUro1mdAaSuPuqFu1_iW/view?usp=drivesdk)
+- 📝[Curriculum Vitae](https://drive.google.com/file/d/1WNEU3FT_DAQsXG_uXpbf_TcyQjgS6SQW/view?usp=drivesdk)
 
 > "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change."--Charles Darwin
 
@@ -62,7 +62,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Build Tools                   |![](https://img.shields.io/badge/Maven-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/npm-3-9400D3?labelColor=7D898B)                                                                                  |
 |Code Quality                  |![](https://img.shields.io/badge/Sonarqube-4-orange?labelColor=7D898B) ![](https://img.shields.io/badge/Jacoco-1-blue?labelColor=7D898B)                                                                             |
-|Collaboration                 |![](https://img.shields.io/badge/JIRA-3-9400D3?labelColor=7D898B)						                                                                                                                             |
+|Collaboration                 |![](https://img.shields.io/badge/JIRA-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Confluence-3-9400D3?labelColor=7D898B)                                                                            |
 |Containerization			   |![](https://img.shields.io/badge/Docker-3-9400D3?labelColor=7D898B)						                                                                                                                             |  
 |Test Automation			   |![](https://img.shields.io/badge/Selenium-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/TOSCA-2-green?labelColor=7D898B)					                                                             |
 |Source Control Tools		   |![](https://img.shields.io/badge/GIT-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Gitlab-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Github-3-9400D3?labelColor=7D898B)			 |
@@ -76,9 +76,9 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
 |Types                         |Tools (x/5)                                                                                                                         |
 |------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-|Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
-|API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Web Services                  |![](https://img.shields.io/badge/SOAPUI-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/REST-2-green?labelColor=7D898B) |
+|API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
+|Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
 ⏰ Updated on ${new Date().toUTCString()}
 \
