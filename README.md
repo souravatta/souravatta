@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Comment by souravatta on Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python/63229150#63229150)
-- [Comment by souravatta on Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python)
-- [Comment by souravatta on Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python/63229150#63229150)
-- [Comment by souravatta on Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python/63229150#63229150)
-- [Comment by souravatta on Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Mon, 03 Aug 2020 07:16:13 GMT
+⏰ Updated on Tue, 04 Aug 2020 00:06:29 GMT
 
