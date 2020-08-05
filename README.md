@@ -34,11 +34,11 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
+- [Answer by souravatta for Logstash Grok JSON error - mapper of different type](https://stackoverflow.com/questions/63262456/logstash-grok-json-error-mapper-of-different-type/63272767#63272767)
 - [Comment by souravatta on Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python/63229150#63229150)
 - [Comment by souravatta on Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python)
 - [Comment by souravatta on Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python/63229150#63229150)
 - [Comment by souravatta on Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python/63229150#63229150)
-- [Comment by souravatta on Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python)
 <!-- STACKOVERFLOW:END -->
 
   </p>
