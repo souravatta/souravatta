@@ -34,11 +34,11 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
+- [Answer by souravatta for Creating a rule in elastalert kibana plugin for kibana dashboard](https://stackoverflow.com/questions/63249258/creating-a-rule-in-elastalert-kibana-plugin-for-kibana-dashboard/63289302#63289302)
+- [Comment by souravatta on Logstash conf file for parsing json](https://stackoverflow.com/questions/63286146/logstash-conf-file-for-parsing-json)
+- [Comment by souravatta on Sonarqube CSS analysis is failing after detecting the nodejs version](https://stackoverflow.com/questions/63262576/sonarqube-css-analysis-is-failing-after-detecting-the-nodejs-version)
+- [Comment by souravatta on SonarQube and problem with ReactJS project code coverage](https://stackoverflow.com/questions/63270803/sonarqube-and-problem-with-reactjs-project-code-coverage)
 - [Comment by souravatta on Grok Pattern escaping a - (hyphen)](https://stackoverflow.com/questions/63286310/grok-pattern-escaping-a-hyphen/63286477#63286477)
-- [Answer by souravatta for Grok Pattern escaping a - (hyphen)](https://stackoverflow.com/questions/63286310/grok-pattern-escaping-a-hyphen/63286477#63286477)
-- [Answer by souravatta for Logstash Grok JSON error - mapper of different type](https://stackoverflow.com/questions/63262456/logstash-grok-json-error-mapper-of-different-type/63272767#63272767)
-- [Comment by souravatta on Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python/63229150#63229150)
-- [Comment by souravatta on Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python)
 <!-- STACKOVERFLOW:END -->
 
   </p>
