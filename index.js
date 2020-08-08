@@ -15,7 +15,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
-![README-CI](https://github.com/souravatta/test-readme/workflows/README-CI/badge.svg) ![Stackoverflow-Stats-CI](https://github.com/souravatta/souravatta/workflows/Stackoverflow-Stats-CI/badge.svg)
+![README-CI](https://github.com/souravatta/souravatta/workflows/README-CI/badge.svg?branch=master)  ![Stackoverflow-Stats-CI](https://github.com/souravatta/souravatta/workflows/Stackoverflow-Stats-CI/badge.svg)
 # Hey there 👋, I am Sourav Atta
 
 I am currently working as a DevOps engineer. As a DevOps engineer, I always try to be very tool agnostic. I do am fond of some particular tools like 
