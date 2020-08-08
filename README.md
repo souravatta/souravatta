@@ -34,7 +34,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Comment by souravatta on Passing eclipse environment variables to jenkins and configuring them](https://stackoverflow.com/questions/63303953/passing-eclipse-environment-variables-to-jenkins-and-configuring-them)
+- [Answer by souravatta for Python does not see env variables set from Jenkins Parameterized build](https://stackoverflow.com/questions/63310767/python-does-not-see-env-variables-set-from-jenkins-parameterized-build/63311736#63311736)
+- [Answer by souravatta for Creating a rule in elastalert kibana plugin for kibana dashboard](https://stackoverflow.com/questions/63249258/creating-a-rule-in-elastalert-kibana-plugin-for-kibana-dashboard/63289302#63289302)
+- [Comment by souravatta on Logstash conf file for parsing json](https://stackoverflow.com/questions/63286146/logstash-conf-file-for-parsing-json)
+- [Comment by souravatta on Sonarqube CSS analysis is failing after detecting the nodejs version](https://stackoverflow.com/questions/63262576/sonarqube-css-analysis-is-failing-after-detecting-the-nodejs-version)
+<!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
