@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Comment by souravatta on Creating a rule in elastalert kibana plugin for kibana dashboard](https://stackoverflow.com/questions/63249258/creating-a-rule-in-elastalert-kibana-plugin-for-kibana-dashboard/63289302#63289302)
-- [Comment by souravatta on Passing eclipse environment variables to jenkins and configuring them](https://stackoverflow.com/questions/63303953/passing-eclipse-environment-variables-to-jenkins-and-configuring-them)
-- [Answer by souravatta for Python does not see env variables set from Jenkins Parameterized build](https://stackoverflow.com/questions/63310767/python-does-not-see-env-variables-set-from-jenkins-parameterized-build/63311736#63311736)
-- [Answer by souravatta for Creating a rule in elastalert kibana plugin for kibana dashboard](https://stackoverflow.com/questions/63249258/creating-a-rule-in-elastalert-kibana-plugin-for-kibana-dashboard/63289302#63289302)
-- [Comment by souravatta on Logstash conf file for parsing json](https://stackoverflow.com/questions/63286146/logstash-conf-file-for-parsing-json)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Sat, 08 Aug 2020 10:55:07 GMT
+⏰ Updated on Sun, 09 Aug 2020 00:06:58 GMT
 
