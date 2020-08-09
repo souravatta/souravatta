@@ -34,11 +34,11 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Comment by souravatta on Build Jenkins job with Build periodically option with different argument](https://stackoverflow.com/questions/63314485/build-jenkins-job-with-build-periodically-option-with-different-argument)
-- [Comment by souravatta on How to create Jenkins build which pack the project to tgz file and push it to artifacotry](https://stackoverflow.com/questions/63323499/how-to-create-jenkins-build-which-pack-the-project-to-tgz-file-and-push-it-to-ar)
-- [Comment by souravatta on Creating a rule in elastalert kibana plugin for kibana dashboard](https://stackoverflow.com/questions/63249258/creating-a-rule-in-elastalert-kibana-plugin-for-kibana-dashboard/63289302#63289302)
-- [Comment by souravatta on Passing eclipse environment variables to jenkins and configuring them](https://stackoverflow.com/questions/63303953/passing-eclipse-environment-variables-to-jenkins-and-configuring-them)
 - [Answer by souravatta for Python does not see env variables set from Jenkins Parameterized build](https://stackoverflow.com/questions/63310767/python-does-not-see-env-variables-set-from-jenkins-parameterized-build/63311736#63311736)
+- [Answer by souravatta for Creating a rule in elastalert kibana plugin for kibana dashboard](https://stackoverflow.com/questions/63249258/creating-a-rule-in-elastalert-kibana-plugin-for-kibana-dashboard/63289302#63289302)
+- [Answer by souravatta for Grok Pattern escaping a - (hyphen)](https://stackoverflow.com/questions/63286310/grok-pattern-escaping-a-hyphen/63286477#63286477)
+- [Answer by souravatta for Logstash Grok JSON error - mapper of different type](https://stackoverflow.com/questions/63262456/logstash-grok-json-error-mapper-of-different-type/63272767#63272767)
+- [Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python)
 <!-- STACKOVERFLOW:END -->
 
   </p>
