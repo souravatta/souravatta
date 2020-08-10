@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by souravatta for Python does not see env variables set from Jenkins Parameterized build](https://stackoverflow.com/questions/63310767/python-does-not-see-env-variables-set-from-jenkins-parameterized-build/63311736#63311736)
-- [Answer by souravatta for Creating a rule in elastalert kibana plugin for kibana dashboard](https://stackoverflow.com/questions/63249258/creating-a-rule-in-elastalert-kibana-plugin-for-kibana-dashboard/63289302#63289302)
-- [Answer by souravatta for Grok Pattern escaping a - (hyphen)](https://stackoverflow.com/questions/63286310/grok-pattern-escaping-a-hyphen/63286477#63286477)
-- [Answer by souravatta for Logstash Grok JSON error - mapper of different type](https://stackoverflow.com/questions/63262456/logstash-grok-json-error-mapper-of-different-type/63272767#63272767)
-- [Data values from CURL response using Python](https://stackoverflow.com/questions/63228914/data-values-from-curl-response-using-python)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Sun, 09 Aug 2020 21:06:22 GMT
+⏰ Updated on Mon, 10 Aug 2020 00:06:38 GMT
 
