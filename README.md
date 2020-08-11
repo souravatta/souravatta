@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Comment by souravatta on Jenkins exec sshCommand within withCredentials block but FAILURE](https://stackoverflow.com/questions/63333827/jenkins-exec-sshcommand-within-withcredentials-block-but-failure)
-- [Comment by souravatta on an error while using Nexus proxy repository for maven packaging](https://stackoverflow.com/questions/63322151/an-error-while-using-nexus-proxy-repository-for-maven-packaging)
-- [Comment by souravatta on Build Jenkins job with Build periodically option with different argument](https://stackoverflow.com/questions/63314485/build-jenkins-job-with-build-periodically-option-with-different-argument)
-- [Comment by souravatta on How to create Jenkins build which pack the project to tgz file and push it to artifacotry](https://stackoverflow.com/questions/63323499/how-to-create-jenkins-build-which-pack-the-project-to-tgz-file-and-push-it-to-ar)
-- [Comment by souravatta on Creating a rule in elastalert kibana plugin for kibana dashboard](https://stackoverflow.com/questions/63249258/creating-a-rule-in-elastalert-kibana-plugin-for-kibana-dashboard/63289302#63289302)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Mon, 10 Aug 2020 10:32:39 GMT
+⏰ Updated on Tue, 11 Aug 2020 00:06:27 GMT
 
