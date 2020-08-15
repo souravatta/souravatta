@@ -76,7 +76,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
 |Types                         |Tools (x/5)                                                                                                                         |
 |------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-|Web Services                  |![](https://img.shields.io/badge/SOAPUI-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/REST-2-green?labelColor=7D898B) |
+|Web Services                  |![](https://img.shields.io/badge/SOAP-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/REST-2-green?labelColor=7D898B) |
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
