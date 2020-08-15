@@ -34,7 +34,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by souravatta for Pass variable from Pre step to Build Step in Maven Jenkins Job](https://stackoverflow.com/questions/63396450/pass-variable-from-pre-step-to-build-step-in-maven-jenkins-job/63407091#63407091)
+- [Answer by souravatta for Python does not see env variables set from Jenkins Parameterized build](https://stackoverflow.com/questions/63310767/python-does-not-see-env-variables-set-from-jenkins-parameterized-build/63311736#63311736)
+- [Answer by souravatta for Creating a rule in elastalert kibana plugin for kibana dashboard](https://stackoverflow.com/questions/63249258/creating-a-rule-in-elastalert-kibana-plugin-for-kibana-dashboard/63289302#63289302)
+- [Answer by souravatta for Grok Pattern escaping a - (hyphen)](https://stackoverflow.com/questions/63286310/grok-pattern-escaping-a-hyphen/63286477#63286477)
+- [Answer by souravatta for Logstash Grok JSON error - mapper of different type](https://stackoverflow.com/questions/63262456/logstash-grok-json-error-mapper-of-different-type/63272767#63272767)
+<!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
