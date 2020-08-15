@@ -1,8 +1,12 @@
 name: Stackoverflow-Stats-CI 
 on:
-  schedule:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  #schedule:
     # Runs 1:00 hours
-    - cron: '0 1 * * *'
+   # - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
