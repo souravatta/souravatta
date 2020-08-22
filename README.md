@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by souravatta for Pass environment variables from parent job to child job Jenkins pipeline](https://stackoverflow.com/questions/63430534/pass-environment-variables-from-parent-job-to-child-job-jenkins-pipeline/63433952#63433952)
-- [Answer by souravatta for Pass variable from Pre step to Build Step in Maven Jenkins Job](https://stackoverflow.com/questions/63396450/pass-variable-from-pre-step-to-build-step-in-maven-jenkins-job/63407091#63407091)
-- [Answer by souravatta for Python does not see env variables set from Jenkins Parameterized build](https://stackoverflow.com/questions/63310767/python-does-not-see-env-variables-set-from-jenkins-parameterized-build/63311736#63311736)
-- [Answer by souravatta for Creating a rule in elastalert kibana plugin for kibana dashboard](https://stackoverflow.com/questions/63249258/creating-a-rule-in-elastalert-kibana-plugin-for-kibana-dashboard/63289302#63289302)
-- [Answer by souravatta for Grok Pattern escaping a - (hyphen)](https://stackoverflow.com/questions/63286310/grok-pattern-escaping-a-hyphen/63286477#63286477)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Fri, 21 Aug 2020 00:43:23 GMT
+⏰ Updated on Sat, 22 Aug 2020 00:43:26 GMT
 
