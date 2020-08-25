@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by souravatta for How to fetch the jenkins build number in my @afterSuite method](https://stackoverflow.com/questions/63548499/how-to-fetch-the-jenkins-build-number-in-my-aftersuite-method/63551466#63551466)
-- [Answer by souravatta for Want to Hide/Unhide parameters based on any input in Jenkinsfile](https://stackoverflow.com/questions/63523097/want-to-hide-unhide-parameters-based-on-any-input-in-jenkinsfile/63526275#63526275)
-- [Answer by souravatta for Running python Unittest in Jenkins](https://stackoverflow.com/questions/63515735/running-python-unittest-in-jenkins/63516774#63516774)
-- [Answer by souravatta for Use generic webhook trigger variables in pipeline](https://stackoverflow.com/questions/63513841/use-generic-webhook-trigger-variables-in-pipeline/63516466#63516466)
-- [Answer by souravatta for Pass environment variables from parent job to child job Jenkins pipeline](https://stackoverflow.com/questions/63430534/pass-environment-variables-from-parent-job-to-child-job-jenkins-pipeline/63433952#63433952)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Mon, 24 Aug 2020 00:44:28 GMT
+⏰ Updated on Tue, 25 Aug 2020 00:43:55 GMT
 
