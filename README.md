@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by souravatta for Sonarqube error : The main branch of this project is empty](https://stackoverflow.com/questions/63601200/sonarqube-error-the-main-branch-of-this-project-is-empty/63605586#63605586)
-- [Answer by souravatta for Error while to integrating Jenkins and Sonarqube for analysing my Angular project](https://stackoverflow.com/questions/63601422/error-while-to-integrating-jenkins-and-sonarqube-for-analysing-my-angular-projec/63605432#63605432)
-- [Answer by souravatta for How to fetch the jenkins build number in my @afterSuite method](https://stackoverflow.com/questions/63548499/how-to-fetch-the-jenkins-build-number-in-my-aftersuite-method/63551466#63551466)
-- [Answer by souravatta for Want to Hide/Unhide parameters based on any input in Jenkinsfile](https://stackoverflow.com/questions/63523097/want-to-hide-unhide-parameters-based-on-any-input-in-jenkinsfile/63526275#63526275)
-- [Answer by souravatta for Running python Unittest in Jenkins](https://stackoverflow.com/questions/63515735/running-python-unittest-in-jenkins/63516774#63516774)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Thu, 27 Aug 2020 00:44:10 GMT
+⏰ Updated on Fri, 28 Aug 2020 00:49:01 GMT
 
