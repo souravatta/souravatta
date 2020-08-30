@@ -34,7 +34,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by souravatta for Jenkins Git Parameter Plugin branchFilter regex](https://stackoverflow.com/questions/63630776/jenkins-git-parameter-plugin-branchfilter-regex/63633563#63633563)
+- [Answer by souravatta for How to get taskid that "waitForQualityGate()" is going to check for?](https://stackoverflow.com/questions/63623807/how-to-get-taskid-that-waitforqualitygate-is-going-to-check-for/63633144#63633144)
+- [Answer by souravatta for want to parametrize the value in ansible playbook with jenkins parameters](https://stackoverflow.com/questions/63621753/want-to-parametrize-the-value-in-ansible-playbook-with-jenkins-parameters/63623133#63623133)
+- [Answer by souravatta for Sonarqube error : The main branch of this project is empty](https://stackoverflow.com/questions/63601200/sonarqube-error-the-main-branch-of-this-project-is-empty/63605586#63605586)
+- [Answer by souravatta for Error while to integrating Jenkins and Sonarqube for analysing my Angular project](https://stackoverflow.com/questions/63601422/error-while-to-integrating-jenkins-and-sonarqube-for-analysing-my-angular-projec/63605432#63605432)
+<!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
