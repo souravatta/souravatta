@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by souravatta for Sonar-scanner all files](https://stackoverflow.com/questions/63686913/sonar-scanner-all-files/63690826#63690826)
-- [Answer by souravatta for Jenkinsfile does not take into account conditional on branch](https://stackoverflow.com/questions/63662166/jenkinsfile-does-not-take-into-account-conditional-on-branch/63665749#63665749)
-- [Answer by souravatta for Is there a way to have sonarqube ignore an entire file from inside the (C#) code file](https://stackoverflow.com/questions/63662814/is-there-a-way-to-have-sonarqube-ignore-an-entire-file-from-inside-the-c-code/63665344#63665344)
-- [Answer by souravatta for Jenkins Git Parameter Plugin branchFilter regex](https://stackoverflow.com/questions/63630776/jenkins-git-parameter-plugin-branchfilter-regex/63633563#63633563)
-- [Answer by souravatta for How to get taskid that "waitForQualityGate()" is going to check for?](https://stackoverflow.com/questions/63623807/how-to-get-taskid-that-waitforqualitygate-is-going-to-check-for/63633144#63633144)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Fri, 04 Sep 2020 00:49:03 GMT
+⏰ Updated on Sat, 05 Sep 2020 01:28:09 GMT
 
