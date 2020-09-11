@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by souravatta for Removing backslash in windows env variables in shell](https://stackoverflow.com/questions/63747399/removing-backslash-in-windows-env-variables-in-shell/63751389#63751389)
-- [Answer by souravatta for How to assign Quality Gate dynamically to project from the script [SonarQube 6.5]?](https://stackoverflow.com/questions/63692029/how-to-assign-quality-gate-dynamically-to-project-from-the-script-sonarqube-6-5/63751037#63751037)
-- [Answer by souravatta for Sonar-scanner all files](https://stackoverflow.com/questions/63686913/sonar-scanner-all-files/63690826#63690826)
-- [Answer by souravatta for Jenkinsfile does not take into account conditional on branch](https://stackoverflow.com/questions/63662166/jenkinsfile-does-not-take-into-account-conditional-on-branch/63665749#63665749)
-- [Answer by souravatta for Is there a way to have sonarqube ignore an entire file from inside the (C#) code file](https://stackoverflow.com/questions/63662814/is-there-a-way-to-have-sonarqube-ignore-an-entire-file-from-inside-the-c-code/63665344#63665344)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Thu, 10 Sep 2020 00:46:30 GMT
+⏰ Updated on Fri, 11 Sep 2020 00:47:06 GMT
 
