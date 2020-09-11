@@ -34,7 +34,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by souravatta for Sonarqube-Jenkins-maven Intergate](https://stackoverflow.com/questions/63833998/sonarqube-jenkins-maven-intergate/63835616#63835616)
+- [Answer by souravatta for Jenkins advanced dropdown parameters](https://stackoverflow.com/questions/63825114/jenkins-advanced-dropdown-parameters/63826922#63826922)
+- [Answer by souravatta for How can I get a top level coverage report for ALL my projects?](https://stackoverflow.com/questions/63816666/how-can-i-get-a-top-level-coverage-report-for-all-my-projects/63823876#63823876)
+- [Answer by souravatta for Removing backslash in windows env variables in shell](https://stackoverflow.com/questions/63747399/removing-backslash-in-windows-env-variables-in-shell/63751389#63751389)
+- [Answer by souravatta for How to assign Quality Gate dynamically to project from the script [SonarQube 6.5]?](https://stackoverflow.com/questions/63692029/how-to-assign-quality-gate-dynamically-to-project-from-the-script-sonarqube-6-5/63751037#63751037)
+<!-- STACKOVERFLOW:END -->
 
   </p>
  </details>
