@@ -42,7 +42,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 [![WhatsApp Badge](https://img.shields.io/badge/-+917827970696-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=917827970696)](https://api.whatsapp.com/send?phone=917827970696)
 
 
-  <summary> Stackoverflow Stats </summary>
+  ** Stackoverflow Stats **
   <br>
   <img alt="IMG" src="https://github-readme-stackoverflow.vercel.app/?userID=8854824"/>
   <hr>
