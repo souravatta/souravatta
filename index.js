@@ -41,7 +41,6 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 [![Gmail Badge](https://img.shields.io/badge/-sourav.atta19395-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sourav.atta19395@gmail.com)](mailto:sourav.atta19395@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-+917827970696-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=917827970696)](https://api.whatsapp.com/send?phone=917827970696)
 
-<details>
   <summary> Stackoverflow Stats </summary>
   <br>
   <img alt="IMG" src="https://github-readme-stackoverflow.vercel.app/?userID=8854824"/>
@@ -54,7 +53,6 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
   <!-- STACKOVERFLOW:END -->
 
   </p>
- </details>
 
 **Devops Tools**
 
