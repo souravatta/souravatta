@@ -11,7 +11,7 @@ on:
     branches: [ master ]
   schedule:
     # Runs every 12am UTC
-    - cron: '* * * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
