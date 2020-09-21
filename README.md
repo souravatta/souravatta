@@ -34,7 +34,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by souravatta for How to trigger build using choice parameters in Jenkins](https://stackoverflow.com/questions/63931809/how-to-trigger-build-using-choice-parameters-in-jenkins/63966276#63966276)
+- [Answer by souravatta for Dynamic or Conditional display of Jenkins job's parameters](https://stackoverflow.com/questions/63948283/dynamic-or-conditional-display-of-jenkins-jobs-parameters/63966117#63966117)
+- [Answer by souravatta for Can't call SonarQube from Jenkins job](https://stackoverflow.com/questions/63935921/cant-call-sonarqube-from-jenkins-job/63963553#63963553)
+- [Answer by souravatta for Jenkins api token expiry](https://stackoverflow.com/questions/63955539/jenkins-api-token-expiry/63963284#63963284)
+- [Answer by souravatta for How to delete Jenkins Job automatically?](https://stackoverflow.com/questions/63954410/how-to-delete-jenkins-job-automatically/63954655#63954655)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
