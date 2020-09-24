@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by souravatta for How to create parameterised jenkins pipeline using jenkinsfile only and trigger it remotely using curl](https://stackoverflow.com/questions/63989763/how-to-create-parameterised-jenkins-pipeline-using-jenkinsfile-only-and-trigger/63989991#63989991)
-- [Answer by souravatta for How to trigger build using choice parameters in Jenkins](https://stackoverflow.com/questions/63931809/how-to-trigger-build-using-choice-parameters-in-jenkins/63966276#63966276)
-- [Answer by souravatta for Dynamic or Conditional display of Jenkins job's parameters](https://stackoverflow.com/questions/63948283/dynamic-or-conditional-display-of-jenkins-jobs-parameters/63966117#63966117)
-- [Answer by souravatta for Can't call SonarQube from Jenkins job](https://stackoverflow.com/questions/63935921/cant-call-sonarqube-from-jenkins-job/63963553#63963553)
-- [Answer by souravatta for Jenkins api token expiry](https://stackoverflow.com/questions/63955539/jenkins-api-token-expiry/63963284#63963284)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Wed, 23 Sep 2020 00:01:57 GMT
+⏰ Updated on Thu, 24 Sep 2020 00:02:05 GMT
 
