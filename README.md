@@ -34,7 +34,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by souravatta for How to pass paramaters to remote script in a Jenkins pipeline](https://stackoverflow.com/questions/64055072/how-to-pass-paramaters-to-remote-script-in-a-jenkins-pipeline/64057753#64057753)
+- [Answer by souravatta for parse the date with format yyyy.MM.dd HH.mm.ss.SSSSSS with ingest node processor in ELK](https://stackoverflow.com/questions/64027423/parse-the-date-with-format-yyyy-mm-dd-hh-mm-ss-ssssss-with-ingest-node-processor/64048538#64048538)
+- [Answer by souravatta for How to create parameterised jenkins pipeline using jenkinsfile only and trigger it remotely using curl](https://stackoverflow.com/questions/63989763/how-to-create-parameterised-jenkins-pipeline-using-jenkinsfile-only-and-trigger/63989991#63989991)
+- [Answer by souravatta for How to trigger build using choice parameters in Jenkins](https://stackoverflow.com/questions/63931809/how-to-trigger-build-using-choice-parameters-in-jenkins/63966276#63966276)
+- [Answer by souravatta for Dynamic or Conditional display of Jenkins job's parameters](https://stackoverflow.com/questions/63948283/dynamic-or-conditional-display-of-jenkins-jobs-parameters/63966117#63966117)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
