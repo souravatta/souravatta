@@ -34,7 +34,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by souravatta for How to By Pass CSRF token validation in ZAP Jenkins job](https://stackoverflow.com/questions/64208427/how-to-by-pass-csrf-token-validation-in-zap-jenkins-job/64209395#64209395)
+- [Answer by souravatta for Logstash multiline not parsing Oracle log properly](https://stackoverflow.com/questions/64201466/logstash-multiline-not-parsing-oracle-log-properly/64209219#64209219)
+- [Answer by souravatta for sonar-scanner with java project](https://stackoverflow.com/questions/64102626/sonar-scanner-with-java-project/64103570#64103570)
+- [Answer by souravatta for How to pass paramaters to remote script in a Jenkins pipeline](https://stackoverflow.com/questions/64055072/how-to-pass-paramaters-to-remote-script-in-a-jenkins-pipeline/64057753#64057753)
+- [Answer by souravatta for parse the date with format yyyy.MM.dd HH.mm.ss.SSSSSS with ingest node processor in ELK](https://stackoverflow.com/questions/64027423/parse-the-date-with-format-yyyy-mm-dd-hh-mm-ss-ssssss-with-ingest-node-processor/64048538#64048538)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
