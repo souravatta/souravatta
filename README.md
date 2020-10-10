@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by souravatta for How to set sonar properties in case I have multiple subdirectories of target folder in same project](https://stackoverflow.com/questions/64257240/how-to-set-sonar-properties-in-case-i-have-multiple-subdirectories-of-target-fol/64263942#64263942)
-- [Answer by souravatta for How can I set up my Jenkinsfile so that some params only appear if another param is selected?](https://stackoverflow.com/questions/64262365/how-can-i-set-up-my-jenkinsfile-so-that-some-params-only-appear-if-another-param/64263556#64263556)
-- [Answer by souravatta for How to By Pass CSRF token validation in ZAP Jenkins job](https://stackoverflow.com/questions/64208427/how-to-by-pass-csrf-token-validation-in-zap-jenkins-job/64209395#64209395)
-- [Answer by souravatta for Logstash multiline not parsing Oracle log properly](https://stackoverflow.com/questions/64201466/logstash-multiline-not-parsing-oracle-log-properly/64209219#64209219)
-- [Answer by souravatta for sonar-scanner with java project](https://stackoverflow.com/questions/64102626/sonar-scanner-with-java-project/64103570#64103570)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Fri, 09 Oct 2020 00:01:53 GMT
+⏰ Updated on Sat, 10 Oct 2020 00:01:44 GMT
 
