@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by souravatta for Jenkins generate new parameters based on another parameter value](https://stackoverflow.com/questions/64395488/jenkins-generate-new-parameters-based-on-another-parameter-value/64398244#64398244)
-- [Answer by souravatta for How to Restrict User to update bug,code smell, vulnerabilities, duplication](https://stackoverflow.com/questions/64387636/how-to-restrict-user-to-update-bug-code-smell-vulnerabilities-duplication/64388889#64388889)
-- [Answer by souravatta for Decorating the pull request in GitHub with SonarQube (Community Edition)](https://stackoverflow.com/questions/64331408/decorating-the-pull-request-in-github-with-sonarqube-community-edition/64336637#64336637)
-- [Answer by souravatta for Error in running sonarqube from GitLab CI](https://stackoverflow.com/questions/64332998/error-in-running-sonarqube-from-gitlab-ci/64336261#64336261)
-- [Answer by souravatta for How to set sonar properties in case I have multiple subdirectories of target folder in same project](https://stackoverflow.com/questions/64257240/how-to-set-sonar-properties-in-case-i-have-multiple-subdirectories-of-target-fol/64263942#64263942)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Sun, 18 Oct 2020 00:01:54 GMT
+⏰ Updated on Mon, 19 Oct 2020 00:02:06 GMT
 
