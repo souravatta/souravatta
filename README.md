@@ -34,7 +34,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by souravatta for How do you get code-quality to only scan a specified directory?](https://stackoverflow.com/questions/64406779/how-do-you-get-code-quality-to-only-scan-a-specified-directory/64438944#64438944)
+- [Answer by souravatta for Can we store npm package somewhere from we can download directly?](https://stackoverflow.com/questions/64425385/can-we-store-npm-package-somewhere-from-we-can-download-directly/64429552#64429552)
+- [Answer by souravatta for Jenkins generate new parameters based on another parameter value](https://stackoverflow.com/questions/64395488/jenkins-generate-new-parameters-based-on-another-parameter-value/64398244#64398244)
+- [Answer by souravatta for How to Restrict User to update bug,code smell, vulnerabilities, duplication](https://stackoverflow.com/questions/64387636/how-to-restrict-user-to-update-bug-code-smell-vulnerabilities-duplication/64388889#64388889)
+- [Answer by souravatta for Decorating the pull request in GitHub with SonarQube (Community Edition)](https://stackoverflow.com/questions/64331408/decorating-the-pull-request-in-github-with-sonarqube-community-edition/64336637#64336637)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
