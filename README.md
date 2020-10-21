@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by souravatta for Can we store npm package somewhere from we can download directly?](https://stackoverflow.com/questions/64425385/can-we-store-npm-package-somewhere-from-we-can-download-directly/64429552#64429552)
-- [Answer by souravatta for Jenkins generate new parameters based on another parameter value](https://stackoverflow.com/questions/64395488/jenkins-generate-new-parameters-based-on-another-parameter-value/64398244#64398244)
-- [Answer by souravatta for How to Restrict User to update bug,code smell, vulnerabilities, duplication](https://stackoverflow.com/questions/64387636/how-to-restrict-user-to-update-bug-code-smell-vulnerabilities-duplication/64388889#64388889)
-- [Answer by souravatta for Decorating the pull request in GitHub with SonarQube (Community Edition)](https://stackoverflow.com/questions/64331408/decorating-the-pull-request-in-github-with-sonarqube-community-edition/64336637#64336637)
-- [Answer by souravatta for Error in running sonarqube from GitLab CI](https://stackoverflow.com/questions/64332998/error-in-running-sonarqube-from-gitlab-ci/64336261#64336261)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Tue, 20 Oct 2020 00:01:57 GMT
+⏰ Updated on Wed, 21 Oct 2020 00:01:52 GMT
 
