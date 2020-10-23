@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by souravatta for `unable to access 'XXX': Could not resolve host` Gitlab CI/CD pipeline](https://stackoverflow.com/questions/64452521/unable-to-access-xxx-could-not-resolve-host-gitlab-ci-cd-pipeline/64462166#64462166)
-- [Answer by souravatta for Docker cannot access published port from other container](https://stackoverflow.com/questions/64457228/docker-cannot-access-published-port-from-other-container/64461919#64461919)
-- [Answer by souravatta for How do you get code-quality to only scan a specified directory?](https://stackoverflow.com/questions/64406779/how-do-you-get-code-quality-to-only-scan-a-specified-directory/64438944#64438944)
-- [Answer by souravatta for Can we store npm package somewhere from we can download directly?](https://stackoverflow.com/questions/64425385/can-we-store-npm-package-somewhere-from-we-can-download-directly/64429552#64429552)
-- [Answer by souravatta for Jenkins generate new parameters based on another parameter value](https://stackoverflow.com/questions/64395488/jenkins-generate-new-parameters-based-on-another-parameter-value/64398244#64398244)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Thu, 22 Oct 2020 00:02:07 GMT
+⏰ Updated on Fri, 23 Oct 2020 00:02:02 GMT
 
