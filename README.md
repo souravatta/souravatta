@@ -34,7 +34,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by souravatta for How to install SonarQube with Open JDK 11](https://stackoverflow.com/questions/64493276/how-to-install-sonarqube-with-open-jdk-11/64506496#64506496)
+- [Answer by souravatta for Selecting Quality Gate for SonarQube Analysis in Jenkinsfile](https://stackoverflow.com/questions/64482367/selecting-quality-gate-for-sonarqube-analysis-in-jenkinsfile/64485606#64485606)
+- [Trigger different child jobs from a seed job based on a condition (if-else)](https://stackoverflow.com/questions/64481147/trigger-different-child-jobs-from-a-seed-job-based-on-a-condition-if-else)
+- [Answer by souravatta for `unable to access 'XXX': Could not resolve host` Gitlab CI/CD pipeline](https://stackoverflow.com/questions/64452521/unable-to-access-xxx-could-not-resolve-host-gitlab-ci-cd-pipeline/64462166#64462166)
+- [Answer by souravatta for Docker cannot access published port from other container](https://stackoverflow.com/questions/64457228/docker-cannot-access-published-port-from-other-container/64461919#64461919)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
