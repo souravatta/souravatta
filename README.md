@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by souravatta for Analysing manually added project with specified quality gate](https://stackoverflow.com/questions/64502121/analysing-manually-added-project-with-specified-quality-gate/64510171#64510171)
-- [Answer by souravatta for Jenkins Freestyle Job : Invoke email notification from Evaluated Groovy script](https://stackoverflow.com/questions/64504201/jenkins-freestyle-job-invoke-email-notification-from-evaluated-groovy-script/64509834#64509834)
-- [Answer by souravatta for Getting Project Version from Node / package.json in Jenkins](https://stackoverflow.com/questions/64506781/getting-project-version-from-node-package-json-in-jenkins/64509751#64509751)
-- [Answer by souravatta for create dsl job inside a job](https://stackoverflow.com/questions/64507782/create-dsl-job-inside-a-job/64509558#64509558)
-- [Answer by souravatta for How to install SonarQube with Open JDK 11](https://stackoverflow.com/questions/64493276/how-to-install-sonarqube-with-open-jdk-11/64506496#64506496)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Mon, 26 Oct 2020 00:01:57 GMT
+⏰ Updated on Tue, 27 Oct 2020 00:02:10 GMT
 
