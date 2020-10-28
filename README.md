@@ -34,7 +34,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav Atta for SonarQube multi module maven project](https://stackoverflow.com/questions/64555640/sonarqube-multi-module-maven-project/64560527#64560527)
+- [Answer by Sourav Atta for How to use environment variables in docker args](https://stackoverflow.com/questions/64546532/how-to-use-environment-variables-in-docker-args/64560099#64560099)
+- [Answer by Sourav Atta for How to construct urls for job names for downloading latest artifacts in GitLab CI?](https://stackoverflow.com/questions/64535034/how-to-construct-urls-for-job-names-for-downloading-latest-artifacts-in-gitlab-c/64535549#64535549)
+- [Answer by Sourav Atta for Analysing manually added project with specified quality gate](https://stackoverflow.com/questions/64502121/analysing-manually-added-project-with-specified-quality-gate/64510171#64510171)
+- [Answer by Sourav Atta for Jenkins Freestyle Job : Invoke email notification from Evaluated Groovy script](https://stackoverflow.com/questions/64504201/jenkins-freestyle-job-invoke-email-notification-from-evaluated-groovy-script/64509834#64509834)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
