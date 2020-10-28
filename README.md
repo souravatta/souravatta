@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for How to construct urls for job names for downloading latest artifacts in GitLab CI?](https://stackoverflow.com/questions/64535034/how-to-construct-urls-for-job-names-for-downloading-latest-artifacts-in-gitlab-c/64535549#64535549)
-- [Answer by Sourav Atta for Analysing manually added project with specified quality gate](https://stackoverflow.com/questions/64502121/analysing-manually-added-project-with-specified-quality-gate/64510171#64510171)
-- [Answer by Sourav Atta for Jenkins Freestyle Job : Invoke email notification from Evaluated Groovy script](https://stackoverflow.com/questions/64504201/jenkins-freestyle-job-invoke-email-notification-from-evaluated-groovy-script/64509834#64509834)
-- [Answer by Sourav Atta for Getting Project Version from Node / package.json in Jenkins](https://stackoverflow.com/questions/64506781/getting-project-version-from-node-package-json-in-jenkins/64509751#64509751)
-- [Answer by Sourav Atta for create dsl job inside a job](https://stackoverflow.com/questions/64507782/create-dsl-job-inside-a-job/64509558#64509558)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Tue, 27 Oct 2020 00:02:10 GMT
+⏰ Updated on Wed, 28 Oct 2020 00:02:15 GMT
 
