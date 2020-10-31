@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for Gitlab CI :- Getting pending status after push on the gitlab](https://stackoverflow.com/questions/64587625/gitlab-ci-getting-pending-status-after-push-on-the-gitlab/64595249#64595249)
-- [Answer by Sourav Atta for Not able to configure Nginx correctly as reverse proxy to both Jenkins and Nexus servers](https://stackoverflow.com/questions/64584432/not-able-to-configure-nginx-correctly-as-reverse-proxy-to-both-jenkins-and-nexus/64584584#64584584)
-- [Answer by Sourav Atta for SonarQube multi module maven project](https://stackoverflow.com/questions/64555640/sonarqube-multi-module-maven-project/64560527#64560527)
-- [Answer by Sourav Atta for How to use environment variables in docker args](https://stackoverflow.com/questions/64546532/how-to-use-environment-variables-in-docker-args/64560099#64560099)
-- [Answer by Sourav Atta for How to construct urls for job names for downloading latest artifacts in GitLab CI?](https://stackoverflow.com/questions/64535034/how-to-construct-urls-for-job-names-for-downloading-latest-artifacts-in-gitlab-c/64535549#64535549)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Fri, 30 Oct 2020 00:01:34 GMT
+⏰ Updated on Sat, 31 Oct 2020 00:01:22 GMT
 
