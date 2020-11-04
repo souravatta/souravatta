@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for Auto run GitLab pipeline only after MR is raised](https://stackoverflow.com/questions/64586311/auto-run-gitlab-pipeline-only-after-mr-is-raised/64617910#64617910)
-- [Answer by Sourav Atta for Grok pattern for Logstash input log file](https://stackoverflow.com/questions/64579080/grok-pattern-for-logstash-input-log-file/64617683#64617683)
-- [Answer by Sourav Atta for Gitlab CI :- Getting pending status after push on the gitlab](https://stackoverflow.com/questions/64587625/gitlab-ci-getting-pending-status-after-push-on-the-gitlab/64595249#64595249)
-- [Answer by Sourav Atta for Not able to configure Nginx correctly as reverse proxy to both Jenkins and Nexus servers](https://stackoverflow.com/questions/64584432/not-able-to-configure-nginx-correctly-as-reverse-proxy-to-both-jenkins-and-nexus/64584584#64584584)
-- [Answer by Sourav Atta for SonarQube multi module maven project](https://stackoverflow.com/questions/64555640/sonarqube-multi-module-maven-project/64560527#64560527)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Tue, 03 Nov 2020 00:01:24 GMT
+⏰ Updated on Wed, 04 Nov 2020 00:01:19 GMT
 
