@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for i am not able to see logs on kibana dashboard](https://stackoverflow.com/questions/64650764/i-am-not-able-to-see-logs-on-kibana-dashboard/64666567#64666567)
-- [Answer by Sourav Atta for How to integrate Jenkins and Nexus (without maven)](https://stackoverflow.com/questions/64659007/how-to-integrate-jenkins-and-nexus-without-maven/64660964#64660964)
-- [Answer by Sourav Atta for Jenkins Declarative Pipeline: How to call functions from "Active choices reactive reference parameter's Groovy script"?](https://stackoverflow.com/questions/64658210/jenkins-declarative-pipeline-how-to-call-functions-from-active-choices-reactiv/64660494#64660494)
-- [Answer by Sourav Atta for Showing new parameter after choosing one](https://stackoverflow.com/questions/64657643/showing-new-parameter-after-choosing-one/64660330#64660330)
-- [Answer by Sourav Atta for Auto run GitLab pipeline only after MR is raised](https://stackoverflow.com/questions/64586311/auto-run-gitlab-pipeline-only-after-mr-is-raised/64617910#64617910)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Wed, 04 Nov 2020 00:01:19 GMT
+⏰ Updated on Thu, 05 Nov 2020 00:01:23 GMT
 
