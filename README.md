@@ -34,7 +34,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav Atta for CI environment and yml file](https://stackoverflow.com/questions/64706649/ci-environment-and-yml-file/64708507#64708507)
+- [Answer by Sourav Atta for Passing environment variable as a pipeline parameter to Jenkins shared library](https://stackoverflow.com/questions/64684784/passing-environment-variable-as-a-pipeline-parameter-to-jenkins-shared-library/64686213#64686213)
+- [Answer by Sourav Atta for Gitlab CI :- How to share the artifacts (apks or build) via Email in Gitlab?](https://stackoverflow.com/questions/64678868/gitlab-ci-how-to-share-the-artifacts-apks-or-build-via-email-in-gitlab/64679506#64679506)
+- [Answer by Sourav Atta for Gitlab CI :- How to create the Shared Runner in Gitlab which does not depend on the any system?](https://stackoverflow.com/questions/64675170/gitlab-ci-how-to-create-the-shared-runner-in-gitlab-which-does-not-depend-on/64675220#64675220)
+- [Answer by Sourav Atta for ESXi VM ServerID changes after installing sonar8.5 Development Edition](https://stackoverflow.com/questions/64674056/esxi-vm-serverid-changes-after-installing-sonar8-5-development-edition/64674823#64674823)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
