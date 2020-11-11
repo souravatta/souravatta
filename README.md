@@ -34,12 +34,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for Multibranch Jenkins pipeline stop scanning for Jenkins file in all branches](https://stackoverflow.com/questions/64746892/multibranch-jenkins-pipeline-stop-scanning-for-jenkins-file-in-all-branches/64755675#64755675)
-- [Answer by Sourav Atta for How to disable auto pipelines in gitlab](https://stackoverflow.com/questions/64725914/how-to-disable-auto-pipelines-in-gitlab/64738756#64738756)
-- [Answer by Sourav Atta for CI environment and yml file](https://stackoverflow.com/questions/64706649/ci-environment-and-yml-file/64708507#64708507)
-- [Answer by Sourav Atta for Passing environment variable as a pipeline parameter to Jenkins shared library](https://stackoverflow.com/questions/64684784/passing-environment-variable-as-a-pipeline-parameter-to-jenkins-shared-library/64686213#64686213)
-- [Answer by Sourav Atta for Gitlab CI :- How to share the artifacts (apks or build) via Email in Gitlab?](https://stackoverflow.com/questions/64678868/gitlab-ci-how-to-share-the-artifacts-apks-or-build-via-email-in-gitlab/64679506#64679506)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -68,5 +63,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Tue, 10 Nov 2020 00:01:39 GMT
+⏰ Updated on Wed, 11 Nov 2020 00:01:20 GMT
 
