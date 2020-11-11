@@ -37,8 +37,8 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
 [![Linkedin Badge](https://img.shields.io/badge/-sourav-blue?style=?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souravatta/)](https://www.linkedin.com/in/souravatta/)
 [![Instagram Badge](https://img.shields.io/badge/-@sourav_0319-7248c5?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sourav_0319/)](https://www.instagram.com/sourav_0319/)
-[![Stack Overflow Badge](https://img.shields.io/badge/-@souravatta-black?style=flat&logo=Medium&logoColor=white&link=https://souravatta.medium.com/)](https://souravatta.medium.com/)
-[![Medium Badge](https://img.shields.io/badge/-@souravatta-black?style=flat&logo=&logoColor=white&link=https://stackoverflow.com/users/8854824/souravatta?tab=profile)](https://stackoverflow.com/users/8854824/souravatta?tab=profile)
+[![Medium Badge](https://img.shields.io/badge/-@souravatta-black?style=flat&logo=Medium&logoColor=white&link=https://souravatta.medium.com/)](https://souravatta.medium.com/)
+[![Stack Overflow Badge](https://img.shields.io/badge/-@souravatta-orange?style=flat&logo=&logoColor=white&link=https://stackoverflow.com/users/8854824/souravatta?tab=profile)](https://stackoverflow.com/users/8854824/souravatta?tab=profile)
 [![Gmail Badge](https://img.shields.io/badge/-sourav.atta19395-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sourav.atta19395@gmail.com)](mailto:sourav.atta19395@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-+917827970696-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=917827970696)](https://api.whatsapp.com/send?phone=917827970696)
 
