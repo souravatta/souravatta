@@ -35,12 +35,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for sonarqube.service start request repeated too quickly - Sonarqube](https://stackoverflow.com/questions/64787334/sonarqube-service-start-request-repeated-too-quickly-sonarqube/64788969#64788969)
-- [Answer by Sourav Atta for Gitlab job stuck](https://stackoverflow.com/questions/64770449/gitlab-job-stuck/64773433#64773433)
-- [Answer by Sourav Atta for Avoid sonarqube analysis of source code automatically generated](https://stackoverflow.com/questions/64765602/avoid-sonarqube-analysis-of-source-code-automatically-generated/64767635#64767635)
-- [Answer by Sourav Atta for When trying to execute Sonarqube on a Jenkins pipeline I get a "Project root configuration file: NONE" log message](https://stackoverflow.com/questions/64756067/when-trying-to-execute-sonarqube-on-a-jenkins-pipeline-i-get-a-project-root-con/64761681#64761681)
-- [Answer by Sourav Atta for Multibranch Jenkins pipeline stop scanning for Jenkins file in all branches](https://stackoverflow.com/questions/64746892/multibranch-jenkins-pipeline-stop-scanning-for-jenkins-file-in-all-branches/64755675#64755675)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -70,5 +65,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Thu, 12 Nov 2020 00:01:18 GMT
+⏰ Updated on Fri, 13 Nov 2020 00:01:22 GMT
 
