@@ -35,7 +35,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav Atta for Make SonarQube external job conditionally failing a pipeline](https://stackoverflow.com/questions/64790031/make-sonarqube-external-job-conditionally-failing-a-pipeline/64797055#64797055)
+- [Answer by Sourav Atta for sonarqube.service start request repeated too quickly - Sonarqube](https://stackoverflow.com/questions/64787334/sonarqube-service-start-request-repeated-too-quickly-sonarqube/64788969#64788969)
+- [Answer by Sourav Atta for Gitlab job stuck](https://stackoverflow.com/questions/64770449/gitlab-job-stuck/64773433#64773433)
+- [Answer by Sourav Atta for Avoid sonarqube analysis of source code automatically generated](https://stackoverflow.com/questions/64765602/avoid-sonarqube-analysis-of-source-code-automatically-generated/64767635#64767635)
+- [Answer by Sourav Atta for When trying to execute Sonarqube on a Jenkins pipeline I get a "Project root configuration file: NONE" log message](https://stackoverflow.com/questions/64756067/when-trying-to-execute-sonarqube-on-a-jenkins-pipeline-i-get-a-project-root-con/64761681#64761681)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
