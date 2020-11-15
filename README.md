@@ -35,12 +35,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for Adding quality gate to Jenkins maven project's build section](https://stackoverflow.com/questions/64820636/adding-quality-gate-to-jenkins-maven-projects-build-section/64825305#64825305)
-- [Answer by Sourav Atta for Why Gitlab automatically merge target branch into source branch when you approve a merge request? How to disable this behaviour?](https://stackoverflow.com/questions/64700414/why-gitlab-automatically-merge-target-branch-into-source-branch-when-you-approve/64825211#64825211)
-- [Answer by Sourav Atta for Scripts for .gitlab-ci.yml for asp.net projects](https://stackoverflow.com/questions/64821984/scripts-for-gitlab-ci-yml-for-asp-net-projects/64824266#64824266)
-- [Answer by Sourav Atta for Trigger gitlab downstream pipeline from a upstream pipeline in a multi-project using trigger, rules and custom configuration variables](https://stackoverflow.com/questions/64808081/trigger-gitlab-downstream-pipeline-from-a-upstream-pipeline-in-a-multi-project-u/64817244#64817244)
-- [Answer by Sourav Atta for Make SonarQube external job conditionally failing a pipeline](https://stackoverflow.com/questions/64790031/make-sonarqube-external-job-conditionally-failing-a-pipeline/64797055#64797055)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -70,5 +65,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Sat, 14 Nov 2020 00:01:20 GMT
+⏰ Updated on Sun, 15 Nov 2020 00:01:33 GMT
 
