@@ -35,7 +35,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav Atta for How to parse stream of logs aggregated from multiple files with logstash?](https://stackoverflow.com/questions/64891727/how-to-parse-stream-of-logs-aggregated-from-multiple-files-with-logstash/64892949#64892949)
+- [Answer by Sourav Atta for GitLab CI: Is it possible to run parallel jobs in different runner](https://stackoverflow.com/questions/64868981/gitlab-ci-is-it-possible-to-run-parallel-jobs-in-different-runner/64886465#64886465)
+- [Answer by Sourav Atta for Why do I care which gitlab runner runs my pipeline](https://stackoverflow.com/questions/64850205/why-do-i-care-which-gitlab-runner-runs-my-pipeline/64854440#64854440)
+- [Answer by Sourav Atta for Adding quality gate to Jenkins maven project's build section](https://stackoverflow.com/questions/64820636/adding-quality-gate-to-jenkins-maven-projects-build-section/64825305#64825305)
+- [Answer by Sourav Atta for Why Gitlab automatically merge target branch into source branch when you approve a merge request? How to disable this behaviour?](https://stackoverflow.com/questions/64700414/why-gitlab-automatically-merge-target-branch-into-source-branch-when-you-approve/64825211#64825211)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
