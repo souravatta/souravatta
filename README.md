@@ -35,7 +35,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav Atta for Start ElastAlert with multiple rules](https://stackoverflow.com/questions/64549003/start-elastalert-with-multiple-rules/64925568#64925568)
+- [Answer by Sourav Atta for Grok Patterns for SSSD Logs](https://stackoverflow.com/questions/64912407/grok-patterns-for-sssd-logs/64917484#64917484)
+- [Answer by Sourav Atta for How to parse stream of logs aggregated from multiple files with logstash?](https://stackoverflow.com/questions/64891727/how-to-parse-stream-of-logs-aggregated-from-multiple-files-with-logstash/64892949#64892949)
+- [Answer by Sourav Atta for GitLab CI: Is it possible to run parallel jobs in different runner](https://stackoverflow.com/questions/64868981/gitlab-ci-is-it-possible-to-run-parallel-jobs-in-different-runner/64886465#64886465)
+- [Answer by Sourav Atta for Why do I care which gitlab runner runs my pipeline](https://stackoverflow.com/questions/64850205/why-do-i-care-which-gitlab-runner-runs-my-pipeline/64854440#64854440)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
