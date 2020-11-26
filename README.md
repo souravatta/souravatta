@@ -35,12 +35,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for curl: (6) Could not resolve host: 'http gitlab-ci runner](https://stackoverflow.com/questions/64916840/curl-6-could-not-resolve-host-http-gitlab-ci-runner/64945927#64945927)
-- [Answer by Sourav Atta for Start ElastAlert with multiple rules](https://stackoverflow.com/questions/64549003/start-elastalert-with-multiple-rules/64925568#64925568)
-- [Answer by Sourav Atta for Grok Patterns for SSSD Logs](https://stackoverflow.com/questions/64912407/grok-patterns-for-sssd-logs/64917484#64917484)
-- [Answer by Sourav Atta for How to parse stream of logs aggregated from multiple files with logstash?](https://stackoverflow.com/questions/64891727/how-to-parse-stream-of-logs-aggregated-from-multiple-files-with-logstash/64892949#64892949)
-- [Answer by Sourav Atta for GitLab CI: Is it possible to run parallel jobs in different runner](https://stackoverflow.com/questions/64868981/gitlab-ci-is-it-possible-to-run-parallel-jobs-in-different-runner/64886465#64886465)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -70,5 +65,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Wed, 25 Nov 2020 00:01:35 GMT
+⏰ Updated on Thu, 26 Nov 2020 00:01:42 GMT
 
