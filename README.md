@@ -35,12 +35,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for Grok filter issue in Logstash](https://stackoverflow.com/questions/65307349/grok-filter-issue-in-logstash/65330763#65330763)
-- [Answer by Sourav Atta for How to resolve sonar warning after 7.9LTS version upgrade](https://stackoverflow.com/questions/65182509/how-to-resolve-sonar-warning-after-7-9lts-version-upgrade/65188369#65188369)
-- [Answer by Sourav Atta for curl: (6) Could not resolve host: 'http gitlab-ci runner](https://stackoverflow.com/questions/64916840/curl-6-could-not-resolve-host-http-gitlab-ci-runner/64945927#64945927)
-- [Answer by Sourav Atta for Start ElastAlert with multiple rules](https://stackoverflow.com/questions/64549003/start-elastalert-with-multiple-rules/64925568#64925568)
-- [Answer by Sourav Atta for Grok Patterns for SSSD Logs](https://stackoverflow.com/questions/64912407/grok-patterns-for-sssd-logs/64917484#64917484)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -70,5 +65,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Thu, 17 Dec 2020 00:03:58 GMT
+⏰ Updated on Fri, 18 Dec 2020 00:03:17 GMT
 
