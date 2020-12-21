@@ -11,8 +11,8 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 - 🌱 I’m currently learning Cloud Native Technologies eg. Docker, K8's
 - ⚡️ Fun-Fact: Strategically lazy😎
 - ⏳ Interests: Travelling, Cooking, Video Games
-- 📝[Resume](https://drive.google.com/file/d/18SzOa0DavlsAmnl73U0KwrTum4pyXkcc/view?usp=sharing)
-- 📝[Curriculum Vitae](https://drive.google.com/file/d/1WNEU3FT_DAQsXG_uXpbf_TcyQjgS6SQW/view?usp=drivesdk)
+- 📝[Resume](https://drive.google.com/file/d/19W1KxeMzk6YGuw--yOGLxT3vjxfxIRTk/view?usp=sharing)
+- 📝[Curriculum Vitae](https://drive.google.com/file/d/1ki-jtGpKk5n0mQk648YASbfzkxTsFpLA/view?usp=sharing)
 
 > "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change."--Charles Darwin
 
@@ -35,12 +35,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for Grok filter issue in Logstash](https://stackoverflow.com/questions/65307349/grok-filter-issue-in-logstash/65330763#65330763)
-- [Answer by Sourav Atta for How to resolve sonar warning after 7.9LTS version upgrade](https://stackoverflow.com/questions/65182509/how-to-resolve-sonar-warning-after-7-9lts-version-upgrade/65188369#65188369)
-- [Answer by Sourav Atta for curl: (6) Could not resolve host: 'http gitlab-ci runner](https://stackoverflow.com/questions/64916840/curl-6-could-not-resolve-host-http-gitlab-ci-runner/64945927#64945927)
-- [Answer by Sourav Atta for Start ElastAlert with multiple rules](https://stackoverflow.com/questions/64549003/start-elastalert-with-multiple-rules/64925568#64925568)
-- [Answer by Sourav Atta for Grok Patterns for SSSD Logs](https://stackoverflow.com/questions/64912407/grok-patterns-for-sssd-logs/64917484#64917484)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -70,5 +65,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Mon, 21 Dec 2020 00:04:33 GMT
+⏰ Updated on Mon, 21 Dec 2020 15:37:59 GMT
 
