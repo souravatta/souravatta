@@ -28,8 +28,8 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 - 🌱 I’m currently learning Cloud Native Technologies eg. Docker, K8's
 - ⚡️ Fun-Fact: Strategically lazy😎
 - ⏳ Interests: Travelling, Cooking, Video Games
-- 📝[Resume](https://drive.google.com/file/d/18SzOa0DavlsAmnl73U0KwrTum4pyXkcc/view?usp=sharing)
-- 📝[Curriculum Vitae](https://drive.google.com/file/d/1WNEU3FT_DAQsXG_uXpbf_TcyQjgS6SQW/view?usp=drivesdk)
+- 📝[Resume](https://drive.google.com/file/d/19W1KxeMzk6YGuw--yOGLxT3vjxfxIRTk/view?usp=sharing)
+- 📝[Curriculum Vitae](https://drive.google.com/file/d/1ki-jtGpKk5n0mQk648YASbfzkxTsFpLA/view?usp=sharing)
 
 > "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change."--Charles Darwin
 
