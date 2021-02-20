@@ -35,7 +35,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav Atta for Message No valid crumb was included in the request](https://stackoverflow.com/questions/66274652/message-no-valid-crumb-was-included-in-the-request/66275510#66275510)
+- [Answer by Sourav Atta for Jenkins declarative pipeline send email at every stage](https://stackoverflow.com/questions/66271274/jenkins-declarative-pipeline-send-email-at-every-stage/66275377#66275377)
+- [Answer by Sourav Atta for Telegraf parsing “grok” patterns out to prometheus](https://stackoverflow.com/questions/65402866/telegraf-parsing-grok-patterns-out-to-prometheus/65433796#65433796)
+- [Answer by Sourav Atta for Grok filter issue in Logstash](https://stackoverflow.com/questions/65307349/grok-filter-issue-in-logstash/65330763#65330763)
+- [Answer by Sourav Atta for How to resolve sonar warning after 7.9LTS version upgrade](https://stackoverflow.com/questions/65182509/how-to-resolve-sonar-warning-after-7-9lts-version-upgrade/65188369#65188369)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
