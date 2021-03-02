@@ -35,12 +35,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for jenkines gat stuck at sonar-qube analysis. The analysis and successfully, but the job stuck](https://stackoverflow.com/questions/66408795/jenkines-gat-stuck-at-sonar-qube-analysis-the-analysis-and-successfully-but-th/66411927#66411927)
-- [Answer by Sourav Atta for Unable to setup SonarQube for python in centos 7](https://stackoverflow.com/questions/62703242/unable-to-setup-sonarqube-for-python-in-centos-7/66405732#66405732)
-- [Answer by Sourav Atta for elastic search grok filter](https://stackoverflow.com/questions/66387349/elastic-search-grok-filter/66388464#66388464)
-- [Answer by Sourav Atta for Jenkins - No valid crumb was included in request for /jenkins/configSubmit](https://stackoverflow.com/questions/66274652/jenkins-no-valid-crumb-was-included-in-request-for-jenkins-configsubmit/66275510#66275510)
-- [Answer by Sourav Atta for Jenkins declarative pipeline send email at every stage](https://stackoverflow.com/questions/66271274/jenkins-declarative-pipeline-send-email-at-every-stage/66275377#66275377)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -72,5 +67,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Mon, 01 Mar 2021 00:01:49 GMT
+⏰ Updated on Tue, 02 Mar 2021 00:01:29 GMT
 
