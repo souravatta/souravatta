@@ -35,7 +35,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav Atta for Filebeat add tags per file directory](https://stackoverflow.com/questions/66453693/filebeat-add-tags-per-file-directory/66460647#66460647)
+- [Answer by Sourav Atta for Jenkins and Docker integration](https://stackoverflow.com/questions/66422294/jenkins-and-docker-integration/66424586#66424586)
+- [Answer by Sourav Atta for jenkines gat stuck at sonar-qube analysis. The analysis and successfully, but the job stuck](https://stackoverflow.com/questions/66408795/jenkines-gat-stuck-at-sonar-qube-analysis-the-analysis-and-successfully-but-th/66411927#66411927)
+- [Answer by Sourav Atta for Unable to setup SonarQube for python in centos 7](https://stackoverflow.com/questions/62703242/unable-to-setup-sonarqube-for-python-in-centos-7/66405732#66405732)
+- [Answer by Sourav Atta for elastic search grok filter](https://stackoverflow.com/questions/66387349/elastic-search-grok-filter/66388464#66388464)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
