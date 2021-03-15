@@ -35,7 +35,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav Atta for Grok pattern not found match](https://stackoverflow.com/questions/66548844/grok-pattern-not-found-match/66588889#66588889)
+- [Answer by Sourav Atta for about Failed to execute goal org.sonarsource.scanner.maven:sonar-maven-plugin:3.8.0.2131:sonar (default-cli)](https://stackoverflow.com/questions/66473260/about-failed-to-execute-goal-org-sonarsource-scanner-mavensonar-maven-plugin3/66479706#66479706)
+- [Answer by Sourav Atta for Filebeat add tags per file directory](https://stackoverflow.com/questions/66453693/filebeat-add-tags-per-file-directory/66460647#66460647)
+- [Answer by Sourav Atta for Jenkins and Docker integration](https://stackoverflow.com/questions/66422294/jenkins-and-docker-integration/66424586#66424586)
+- [Answer by Sourav Atta for jenkines gat stuck at sonar-qube analysis. The analysis and successfully, but the job stuck](https://stackoverflow.com/questions/66408795/jenkines-gat-stuck-at-sonar-qube-analysis-the-analysis-and-successfully-but-th/66411927#66411927)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
