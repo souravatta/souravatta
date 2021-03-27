@@ -35,12 +35,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for Jenkins conditional step for string contains](https://stackoverflow.com/questions/66793606/jenkins-conditional-step-for-string-contains/66794314#66794314)
-- [Answer by Sourav Atta for How to add "default recipients" ($DEFAULT_RECIPIENTS) to recipientProviders in Jenkins EmailExt?](https://stackoverflow.com/questions/66779522/how-to-add-default-recipients-default-recipients-to-recipientproviders-in-j/66780161#66780161)
-- [Answer by Sourav Atta for migrate sonarqube history from one server to another](https://stackoverflow.com/questions/66769623/migrate-sonarqube-history-from-one-server-to-another/66777314#66777314)
-- [Answer by Sourav Atta for Jenkins Parameterized Project For Multiple Parameters](https://stackoverflow.com/questions/66708040/jenkins-parameterized-project-for-multiple-parameters/66775631#66775631)
-- [Answer by Sourav Atta for Grok pattern not found match](https://stackoverflow.com/questions/66548844/grok-pattern-not-found-match/66588889#66588889)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -72,5 +67,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Fri, 26 Mar 2021 02:04:09 GMT
+⏰ Updated on Sat, 27 Mar 2021 00:24:27 GMT
 
