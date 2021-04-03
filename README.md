@@ -35,12 +35,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for How to transfrom log message using logstash?](https://stackoverflow.com/questions/66829563/how-to-transfrom-log-message-using-logstash/66850714#66850714)
-- [Answer by Sourav Atta for I want to add a test report file as attachment in jira using CI tools like Jenkins, please guide me on this](https://stackoverflow.com/questions/66841673/i-want-to-add-a-test-report-file-as-attachment-in-jira-using-ci-tools-like-jenki/66845778#66845778)
-- [Answer by Sourav Atta for Jenkins pipeline how to use if with agent label](https://stackoverflow.com/questions/66819560/jenkins-pipeline-how-to-use-if-with-agent-label/66820960#66820960)
-- [Answer by Sourav Atta for I want to import an external jar, but a warning appears during runtime. How should I modify it?](https://stackoverflow.com/questions/66809830/i-want-to-import-an-external-jar-but-a-warning-appears-during-runtime-how-shou/66811457#66811457)
-- [Answer by Sourav Atta for Jenkins conditional step for string contains](https://stackoverflow.com/questions/66793606/jenkins-conditional-step-for-string-contains/66794314#66794314)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -72,5 +67,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Fri, 02 Apr 2021 00:34:12 GMT
+⏰ Updated on Sat, 03 Apr 2021 00:24:46 GMT
 
