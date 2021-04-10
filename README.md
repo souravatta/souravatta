@@ -35,12 +35,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for Extract from LogStash message field in Kibana dashboard](https://stackoverflow.com/questions/66954364/extract-from-logstash-message-field-in-kibana-dashboard/66981837#66981837)
-- [Answer by Sourav Atta for Continuous Delivery with Jenkins: Deploy to production as manual step](https://stackoverflow.com/questions/66980520/continuous-delivery-with-jenkins-deploy-to-production-as-manual-step/66980604#66980604)
-- [Answer by Sourav Atta for "script" step in Jenkinsfile - Permission denied](https://stackoverflow.com/questions/66912044/script-step-in-jenkinsfile-permission-denied/66914383#66914383)
-- [Answer by Sourav Atta for How to transfrom log message using logstash?](https://stackoverflow.com/questions/66829563/how-to-transfrom-log-message-using-logstash/66850714#66850714)
-- [Answer by Sourav Atta for I want to add a test report file as attachment in jira using CI tools like Jenkins, please guide me on this](https://stackoverflow.com/questions/66841673/i-want-to-add-a-test-report-file-as-attachment-in-jira-using-ci-tools-like-jenki/66845778#66845778)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -72,5 +67,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Fri, 09 Apr 2021 00:25:18 GMT
+⏰ Updated on Sat, 10 Apr 2021 00:26:37 GMT
 
