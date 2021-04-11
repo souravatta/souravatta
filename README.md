@@ -35,7 +35,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav Atta for how to create bamboo jobs equivalent to jenkins pipeline](https://stackoverflow.com/questions/66779708/how-to-create-bamboo-jobs-equivalent-to-jenkins-pipeline/67022038#67022038)
+- [Answer by Sourav Atta for storing curl output to a variable is working in linux but not through Jenkins](https://stackoverflow.com/questions/67016994/storing-curl-output-to-a-variable-is-working-in-linux-but-not-through-jenkins/67018640#67018640)
+- [Answer by Sourav Atta for Extract from LogStash message field in Kibana dashboard](https://stackoverflow.com/questions/66954364/extract-from-logstash-message-field-in-kibana-dashboard/66981837#66981837)
+- [Answer by Sourav Atta for Continuous Delivery with Jenkins: Deploy to production as manual step](https://stackoverflow.com/questions/66980520/continuous-delivery-with-jenkins-deploy-to-production-as-manual-step/66980604#66980604)
+- [Answer by Sourav Atta for "script" step in Jenkinsfile - Permission denied](https://stackoverflow.com/questions/66912044/script-step-in-jenkinsfile-permission-denied/66914383#66914383)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
