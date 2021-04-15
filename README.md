@@ -35,12 +35,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for How to handle failed jenkins build jobs with automated python script](https://stackoverflow.com/questions/67065045/how-to-handle-failed-jenkins-build-jobs-with-automated-python-script/67070074#67070074)
-- [Answer by Sourav Atta for Sonarqube qualitygate status is pending in Azure pipelines](https://stackoverflow.com/questions/67058794/sonarqube-qualitygate-status-is-pending-in-azure-pipelines/67060294#67060294)
-- [Answer by Sourav Atta for Sending slack message in jenkins with ${currentBuild.number}](https://stackoverflow.com/questions/67039289/sending-slack-message-in-jenkins-with-currentbuild-number/67041457#67041457)
-- [Answer by Sourav Atta for how to create bamboo jobs equivalent to jenkins pipeline](https://stackoverflow.com/questions/66779708/how-to-create-bamboo-jobs-equivalent-to-jenkins-pipeline/67022038#67022038)
-- [Answer by Sourav Atta for storing curl output to a variable is working in linux but not through Jenkins](https://stackoverflow.com/questions/67016994/storing-curl-output-to-a-variable-is-working-in-linux-but-not-through-jenkins/67018640#67018640)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -72,5 +67,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Wed, 14 Apr 2021 00:24:05 GMT
+⏰ Updated on Thu, 15 Apr 2021 00:25:49 GMT
 
