@@ -35,7 +35,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav Atta for Jenkins pipeline skip stage if copying fails](https://stackoverflow.com/questions/67139265/jenkins-pipeline-skip-stage-if-copying-fails/67142152#67142152)
+- [Answer by Sourav Atta for How to add string variable to sh script in Jenkins groovy](https://stackoverflow.com/questions/67116059/how-to-add-string-variable-to-sh-script-in-jenkins-groovy/67119306#67119306)
+- [Answer by Sourav Atta for How to use Randon number in jenkins Declarative pipeline](https://stackoverflow.com/questions/67110234/how-to-use-randon-number-in-jenkins-declarative-pipeline/67110959#67110959)
+- [Answer by Sourav Atta for How to create dsl script for a pipeline job for property - Build after other projects are built](https://stackoverflow.com/questions/67108021/how-to-create-dsl-script-for-a-pipeline-job-for-property-build-after-other-pro/67108933#67108933)
+- [Answer by Sourav Atta for Jenkins path in a pipeline](https://stackoverflow.com/questions/67087817/jenkins-path-in-a-pipeline/67088885#67088885)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
