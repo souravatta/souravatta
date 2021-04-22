@@ -35,12 +35,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for How to build pipeline job inside the POST section in Jenkins pipeline](https://stackoverflow.com/questions/67148869/how-to-build-pipeline-job-inside-the-post-section-in-jenkins-pipeline/67155644#67155644)
-- [Answer by Sourav Atta for or condition in logstash grok for a particular field](https://stackoverflow.com/questions/67119384/or-condition-in-logstash-grok-for-a-particular-field/67145692#67145692)
-- [Answer by Sourav Atta for Jenkins pipeline skip stage if copying fails](https://stackoverflow.com/questions/67139265/jenkins-pipeline-skip-stage-if-copying-fails/67142152#67142152)
-- [Answer by Sourav Atta for How to add string variable to sh script in Jenkins groovy](https://stackoverflow.com/questions/67116059/how-to-add-string-variable-to-sh-script-in-jenkins-groovy/67119306#67119306)
-- [Answer by Sourav Atta for How to use Randon number in jenkins Declarative pipeline](https://stackoverflow.com/questions/67110234/how-to-use-randon-number-in-jenkins-declarative-pipeline/67110959#67110959)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -72,5 +67,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Wed, 21 Apr 2021 00:25:38 GMT
+⏰ Updated on Thu, 22 Apr 2021 00:27:06 GMT
 
