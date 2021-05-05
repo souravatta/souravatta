@@ -35,7 +35,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav Atta for How to loop parameter value in Jenkins Declarative pipeline](https://stackoverflow.com/questions/67261447/how-to-loop-parameter-value-in-jenkins-declarative-pipeline/67262080#67262080)
+- [Answer by Sourav Atta for How to build pipeline job inside the POST section in Jenkins pipeline](https://stackoverflow.com/questions/67148869/how-to-build-pipeline-job-inside-the-post-section-in-jenkins-pipeline/67155644#67155644)
+- [Answer by Sourav Atta for or condition in logstash grok for a particular field](https://stackoverflow.com/questions/67119384/or-condition-in-logstash-grok-for-a-particular-field/67145692#67145692)
+- [Answer by Sourav Atta for Jenkins pipeline skip stage if copying fails](https://stackoverflow.com/questions/67139265/jenkins-pipeline-skip-stage-if-copying-fails/67142152#67142152)
+- [Answer by Sourav Atta for How to add string variable to sh script in Jenkins groovy](https://stackoverflow.com/questions/67116059/how-to-add-string-variable-to-sh-script-in-jenkins-groovy/67119306#67119306)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
