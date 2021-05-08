@@ -35,12 +35,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for Jenkins job to list out all the PRs created till date given repository name as input to the job](https://stackoverflow.com/questions/67411420/jenkins-job-to-list-out-all-the-prs-created-till-date-given-repository-name-as-i/67412828#67412828)
-- [Answer by Sourav Atta for How to build multiple projects the same time using jenkins pipeline](https://stackoverflow.com/questions/67411152/how-to-build-multiple-projects-the-same-time-using-jenkins-pipeline/67412428#67412428)
-- [Answer by Sourav Atta for How to loop parameter value in Jenkins Declarative pipeline](https://stackoverflow.com/questions/67261447/how-to-loop-parameter-value-in-jenkins-declarative-pipeline/67262080#67262080)
-- [Answer by Sourav Atta for How to build pipeline job inside the POST section in Jenkins pipeline](https://stackoverflow.com/questions/67148869/how-to-build-pipeline-job-inside-the-post-section-in-jenkins-pipeline/67155644#67155644)
-- [Answer by Sourav Atta for or condition in logstash grok for a particular field](https://stackoverflow.com/questions/67119384/or-condition-in-logstash-grok-for-a-particular-field/67145692#67145692)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -72,5 +67,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Fri, 07 May 2021 00:01:58 GMT
+⏰ Updated on Sat, 08 May 2021 00:01:40 GMT
 
