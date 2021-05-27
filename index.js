@@ -28,7 +28,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 - 🌱 I’m currently learning Cloud Native Technologies eg. K8's, Terraform
 - ⚡️ Fun-Fact: Strategically lazy😎
 - ⏳ Interests: Travelling, Cooking, Video Games
-- 📝[Resume](https://drive.google.com/file/d/19W1KxeMzk6YGuw--yOGLxT3vjxfxIRTk/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1O4L-Q4nE4edx28-PGlkEMpeSdS_jDDcs/view?usp=sharing)
 - 📝[Curriculum Vitae](https://drive.google.com/file/d/1ki-jtGpKk5n0mQk648YASbfzkxTsFpLA/view?usp=sharing)
 
 > "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change."--Charles Darwin
@@ -38,7 +38,8 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 [![Linkedin Badge](https://img.shields.io/badge/-sourav-blue?style=?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souravatta/)](https://www.linkedin.com/in/souravatta/)
 [![Instagram Badge](https://img.shields.io/badge/-@sourav_0319-7248c5?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sourav_0319/)](https://www.instagram.com/sourav_0319/)
 [![Medium Badge](https://img.shields.io/badge/-@souravatta-black?style=flat&logo=Medium&logoColor=white&link=https://souravatta.medium.com/)](https://souravatta.medium.com/)
-[![Stack Overflow Badge](https://img.shields.io/badge/-@souravatta-orange?style=flat&logo=&logoColor=white&link=https://stackoverflow.com/users/8854824/souravatta?tab=profile)](https://stackoverflow.com/users/8854824/souravatta?tab=profile)
+[![Dev.to Badge](https://img.shields.io/badge/-@souravatta-black?style=flat&logo=dev-dot-to&logoColor=white&link=https://dev.to/souravatta)](https://dev.to/souravatta)
+[![Stack Overflow Badge](https://img.shields.io/badge/-@souravatta-orange?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/8854824/souravatta?tab=profile)](https://stackoverflow.com/users/8854824/souravatta?tab=profile)
 [![Gmail Badge](https://img.shields.io/badge/-sourav.atta19395-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sourav.atta19395@gmail.com)](mailto:sourav.atta19395@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-+917827970696-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=917827970696)](https://api.whatsapp.com/send?phone=917827970696)
 
@@ -73,7 +74,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |Configuration Management      |![](https://img.shields.io/badge/Ansible-3-9400D3?labelColor=7D898B)                                                                                                                                                 |
 |Infrastructure as Code        |![](https://img.shields.io/badge/Terraform-3-9400D3?labelColor=7D898B)                                                                                                                                               |
 |Web Server                    |![](https://img.shields.io/badge/Nginx-2-green?labelColor=7D898B)                                                                                                                                                    |
-|Scripting Tools               |![](https://img.shields.io/badge/Bash-2-green?labelColor=7D898B) ![](https://img.shields.io/badge/Python-2-green?labelColor=7D898B)                                                                                  |
+|Scripting Tools               |![](https://img.shields.io/badge/Bash-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Python-2-green?labelColor=7D898B)                                                                                  |
 |Cloud Services                |![](https://img.shields.io/badge/AWS-2-green?labelColor=7D898B)                                                                                                                                                      |
 
 **Other Tools**
