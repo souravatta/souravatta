@@ -36,12 +36,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for SonarQube -adding custom quality gate](https://stackoverflow.com/questions/67830259/sonarqube-adding-custom-quality-gate/67852066#67852066)
-- [Answer by Sourav Atta for Get Sonarqube Analysis Status on a variable (GUI Job)](https://stackoverflow.com/questions/67737102/get-sonarqube-analysis-status-on-a-variable-gui-job/67751656#67751656)
-- [Answer by Sourav Atta for Jenkins declarative pipeline for simple basic code](https://stackoverflow.com/questions/67480261/jenkins-declarative-pipeline-for-simple-basic-code/67480891#67480891)
-- [Answer by Sourav Atta for Grok Pattern to skip a character](https://stackoverflow.com/questions/67428976/grok-pattern-to-skip-a-character/67432653#67432653)
-- [Answer by Sourav Atta for Jenkins job to list out all the PRs created till date given repository name as input to the job](https://stackoverflow.com/questions/67411420/jenkins-job-to-list-out-all-the-prs-created-till-date-given-repository-name-as-i/67412828#67412828)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -73,5 +68,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Sun, 06 Jun 2021 00:27:21 GMT
+⏰ Updated on Mon, 07 Jun 2021 00:24:33 GMT
 
