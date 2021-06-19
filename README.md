@@ -36,12 +36,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for how to re-trigger Jenkins job that are failed due to timeout?](https://stackoverflow.com/questions/67919340/how-to-re-trigger-jenkins-job-that-are-failed-due-to-timeout/67921106#67921106)
-- [Answer by Sourav Atta for Virtual environment does not open when executing shell script in Jenkins docker container](https://stackoverflow.com/questions/67773302/virtual-environment-does-not-open-when-executing-shell-script-in-jenkins-docker/67920307#67920307)
-- [Answer by Sourav Atta for SonarQube -adding custom quality gate](https://stackoverflow.com/questions/67830259/sonarqube-adding-custom-quality-gate/67852066#67852066)
-- [Answer by Sourav Atta for Get Sonarqube Analysis Status on a variable (GUI Job)](https://stackoverflow.com/questions/67737102/get-sonarqube-analysis-status-on-a-variable-gui-job/67751656#67751656)
-- [Answer by Sourav Atta for Jenkins declarative pipeline for simple basic code](https://stackoverflow.com/questions/67480261/jenkins-declarative-pipeline-for-simple-basic-code/67480891#67480891)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -73,5 +68,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Fri, 18 Jun 2021 00:10:23 GMT
+⏰ Updated on Sat, 19 Jun 2021 00:11:35 GMT
 
