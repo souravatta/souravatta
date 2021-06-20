@@ -36,7 +36,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav Atta for SonarQube.Analysis.xml being ignored](https://stackoverflow.com/questions/68033486/sonarqube-analysis-xml-being-ignored/68044725#68044725)
+- [Answer by Sourav Atta for How to pass environment variables as parameters for readProperties file in jenkins](https://stackoverflow.com/questions/68025353/how-to-pass-environment-variables-as-parameters-for-readproperties-file-in-jenki/68044658#68044658)
+- [Answer by Sourav Atta for Elastalert: How to run rule periodically](https://stackoverflow.com/questions/67587722/elastalert-how-to-run-rule-periodically/68030578#68030578)
+- [Answer by Sourav Atta for Grok is not returning valid JSON](https://stackoverflow.com/questions/68002205/grok-is-not-returning-valid-json/68030223#68030223)
+- [Answer by Sourav Atta for how to re-trigger Jenkins job that are failed due to timeout?](https://stackoverflow.com/questions/67919340/how-to-re-trigger-jenkins-job-that-are-failed-due-to-timeout/67921106#67921106)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
