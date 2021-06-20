@@ -36,12 +36,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for Elastalert: How to run rule periodically](https://stackoverflow.com/questions/67587722/elastalert-how-to-run-rule-periodically/68030578#68030578)
-- [Answer by Sourav Atta for Grok is not returning valid JSON](https://stackoverflow.com/questions/68002205/grok-is-not-returning-valid-json/68030223#68030223)
-- [Answer by Sourav Atta for how to re-trigger Jenkins job that are failed due to timeout?](https://stackoverflow.com/questions/67919340/how-to-re-trigger-jenkins-job-that-are-failed-due-to-timeout/67921106#67921106)
-- [Answer by Sourav Atta for Virtual environment does not open when executing shell script in Jenkins docker container](https://stackoverflow.com/questions/67773302/virtual-environment-does-not-open-when-executing-shell-script-in-jenkins-docker/67920307#67920307)
-- [Answer by Sourav Atta for SonarQube -adding custom quality gate](https://stackoverflow.com/questions/67830259/sonarqube-adding-custom-quality-gate/67852066#67852066)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -73,5 +68,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Sat, 19 Jun 2021 00:11:35 GMT
+⏰ Updated on Sun, 20 Jun 2021 00:12:11 GMT
 
