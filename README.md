@@ -36,12 +36,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for SonarQube code coverage - exclude some classes](https://stackoverflow.com/questions/67949027/sonarqube-code-coverage-exclude-some-classes/68081576#68081576)
-- [Answer by Sourav Atta for SonarQube.Analysis.xml being ignored](https://stackoverflow.com/questions/68033486/sonarqube-analysis-xml-being-ignored/68044725#68044725)
-- [Answer by Sourav Atta for How to pass environment variables as parameters for readProperties file in jenkins](https://stackoverflow.com/questions/68025353/how-to-pass-environment-variables-as-parameters-for-readproperties-file-in-jenki/68044658#68044658)
-- [Answer by Sourav Atta for Elastalert: How to run rule periodically](https://stackoverflow.com/questions/67587722/elastalert-how-to-run-rule-periodically/68030578#68030578)
-- [Answer by Sourav Atta for Grok is not returning valid JSON](https://stackoverflow.com/questions/68002205/grok-is-not-returning-valid-json/68030223#68030223)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -73,5 +68,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Thu, 24 Jun 2021 00:13:14 GMT
+⏰ Updated on Fri, 25 Jun 2021 00:10:16 GMT
 
