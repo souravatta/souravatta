@@ -36,12 +36,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for Cannot run program "docker": error=2, No such file or directory in jenkins](https://stackoverflow.com/questions/68423025/cannot-run-program-docker-error-2-no-such-file-or-directory-in-jenkins/68425665#68425665)
-- [Answer by Sourav Atta for Failing a stage but keeping build result as Successful in Jenkins](https://stackoverflow.com/questions/68294123/failing-a-stage-but-keeping-build-result-as-successful-in-jenkins/68296390#68296390)
-- [Answer by Sourav Atta for SonarQube Specific Build and Report Generation](https://stackoverflow.com/questions/68163772/sonarqube-specific-build-and-report-generation/68164445#68164445)
-- [Answer by Sourav Atta for Parameterized Scheduler with File parameters - Jenkins](https://stackoverflow.com/questions/68125590/parameterized-scheduler-with-file-parameters-jenkins/68125947#68125947)
-- [Answer by Sourav Atta for SonarQube code coverage - exclude some classes](https://stackoverflow.com/questions/67949027/sonarqube-code-coverage-exclude-some-classes/68081576#68081576)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -73,5 +68,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Tue, 03 Aug 2021 00:11:42 GMT
+⏰ Updated on Wed, 04 Aug 2021 00:15:30 GMT
 
