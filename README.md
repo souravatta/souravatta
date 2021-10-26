@@ -36,12 +36,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for Create a Grok Pattern](https://stackoverflow.com/questions/69536628/create-a-grok-pattern/69690227#69690227)
-- [Answer by Sourav Atta for Grok filter Pattern -Unable to get required values from Square bracket](https://stackoverflow.com/questions/69618365/grok-filter-pattern-unable-to-get-required-values-from-square-bracket/69690107#69690107)
-- [Answer by Sourav Atta for Logstash stuck problem on pipeline running](https://stackoverflow.com/questions/69676413/logstash-stuck-problem-on-pipeline-running/69690000#69690000)
-- [Answer by Sourav Atta for Cannot run program "docker": error=2, No such file or directory in jenkins](https://stackoverflow.com/questions/68423025/cannot-run-program-docker-error-2-no-such-file-or-directory-in-jenkins/68425665#68425665)
-- [Answer by Sourav Atta for Failing a stage but keeping build result as Successful in Jenkins](https://stackoverflow.com/questions/68294123/failing-a-stage-but-keeping-build-result-as-successful-in-jenkins/68296390#68296390)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -73,5 +68,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Mon, 25 Oct 2021 00:14:34 GMT
+⏰ Updated on Tue, 26 Oct 2021 00:13:41 GMT
 
