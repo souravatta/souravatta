@@ -36,7 +36,12 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav Atta for Sonarqube analysis total time/duration [SonnarScanner for Maven]](https://stackoverflow.com/questions/69725549/sonarqube-analysis-total-time-duration-sonnarscanner-for-maven/69728739#69728739)
+- [Answer by Sourav Atta for Create a Grok Pattern](https://stackoverflow.com/questions/69536628/create-a-grok-pattern/69690227#69690227)
+- [Answer by Sourav Atta for Grok filter Pattern -Unable to get required values from Square bracket](https://stackoverflow.com/questions/69618365/grok-filter-pattern-unable-to-get-required-values-from-square-bracket/69690107#69690107)
+- [Answer by Sourav Atta for Logstash stuck problem on pipeline running](https://stackoverflow.com/questions/69676413/logstash-stuck-problem-on-pipeline-running/69690000#69690000)
+- [Answer by Sourav Atta for Cannot run program &quot;docker&quot;: error=2, No such file or directory in jenkins](https://stackoverflow.com/questions/68423025/cannot-run-program-docker-error-2-no-such-file-or-directory-in-jenkins/68425665#68425665)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
