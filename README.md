@@ -36,12 +36,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for ERROR: Error during SonarScanner execution](https://stackoverflow.com/questions/70033692/error-error-during-sonarscanner-execution/70034162#70034162)
-- [Answer by Sourav Atta for Sonarqube analysis total time/duration [SonnarScanner for Maven]](https://stackoverflow.com/questions/69725549/sonarqube-analysis-total-time-duration-sonnarscanner-for-maven/69728739#69728739)
-- [Answer by Sourav Atta for Create a Grok Pattern](https://stackoverflow.com/questions/69536628/create-a-grok-pattern/69690227#69690227)
-- [Answer by Sourav Atta for Grok filter Pattern -Unable to get required values from Square bracket](https://stackoverflow.com/questions/69618365/grok-filter-pattern-unable-to-get-required-values-from-square-bracket/69690107#69690107)
-- [Answer by Sourav Atta for Logstash stuck problem on pipeline running](https://stackoverflow.com/questions/69676413/logstash-stuck-problem-on-pipeline-running/69690000#69690000)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -73,5 +68,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Sat, 04 Dec 2021 00:15:19 GMT
+⏰ Updated on Sun, 05 Dec 2021 00:16:33 GMT
 
