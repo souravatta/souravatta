@@ -2,13 +2,13 @@
 # Hey there 👋, I am Sourav Atta
 
 I am currently working as a DevOps engineer. As a DevOps engineer, I always try to be very tool agnostic. I do am fond of some particular tools like
-ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmost efficiency. Apart from that, I am very much into learning old-school IT concepts.
+Terraform, ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmost efficiency. Apart from that, I am very much into learning old-school IT concepts.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/eMPormrWOvXQHSKTjO/giphy.gif"/>
 
 **Know more about me**
-- 🏢 I’m currently working in [Talentica Software](https://www.talentica.com/)
-- 🌱 I’m currently learning Cloud Native Technologies eg. K8's, Terraform
+- 🏢 I’m currently working in [Zoom Video Communication](https://zoom.us/)
+- 🌱 I’m currently learning Cloud Native Technologies eg. K8's
 - ⚡️ Fun-Fact: Strategically lazy😎
 - ⏳ Interests: Travelling, Cooking, Video Games
 - 📝[Resume](https://drive.google.com/file/d/1O4L-Q4nE4edx28-PGlkEMpeSdS_jDDcs/view?usp=sharing)
@@ -36,12 +36,7 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for logstash: wso api manager logs to elastic](https://stackoverflow.com/questions/70316567/logstash-wso-api-manager-logs-to-elastic/70324705#70324705)
-- [Answer by Sourav Atta for ERROR: Error during SonarScanner execution](https://stackoverflow.com/questions/70033692/error-error-during-sonarscanner-execution/70034162#70034162)
-- [Answer by Sourav Atta for Sonarqube analysis total time/duration [SonnarScanner for Maven]](https://stackoverflow.com/questions/69725549/sonarqube-analysis-total-time-duration-sonnarscanner-for-maven/69728739#69728739)
-- [Answer by Sourav Atta for Create a Grok Pattern](https://stackoverflow.com/questions/69536628/create-a-grok-pattern/69690227#69690227)
-- [Answer by Sourav Atta for Grok filter Pattern -Unable to get required values from Square bracket](https://stackoverflow.com/questions/69618365/grok-filter-pattern-unable-to-get-required-values-from-square-bracket/69690107#69690107)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -73,5 +68,5 @@ ELK, Ansible, Sonarqube and Docker, but I sure can work on other tools with utmo
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Wed, 02 Feb 2022 00:17:37 GMT
+⏰ Updated on Wed, 02 Feb 2022 09:10:01 GMT
 
