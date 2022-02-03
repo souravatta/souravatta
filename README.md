@@ -68,5 +68,5 @@ Terraform, ELK, Ansible, Sonarqube and Docker, but I sure can work on other tool
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Wed, 02 Feb 2022 09:10:01 GMT
+⏰ Updated on Thu, 03 Feb 2022 00:16:38 GMT
 
