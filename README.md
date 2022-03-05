@@ -36,12 +36,7 @@ Terraform, ELK, Ansible, Sonarqube and Docker, but I sure can work on other tool
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for CI/CD with Jenkins](https://stackoverflow.com/questions/71231188/ci-cd-with-jenkins/71231446#71231446)
-- [Answer by Sourav Atta for Elastic Grok Pattern Netscaler example?](https://stackoverflow.com/questions/71166155/elastic-grok-pattern-netscaler-example/71218959#71218959)
-- [Answer by Sourav Atta for logstash: wso api manager logs to elastic](https://stackoverflow.com/questions/70316567/logstash-wso-api-manager-logs-to-elastic/70324705#70324705)
-- [Answer by Sourav Atta for ERROR: Error during SonarScanner execution](https://stackoverflow.com/questions/70033692/error-error-during-sonarscanner-execution/70034162#70034162)
-- [Answer by Sourav Atta for Sonarqube analysis total time/duration [SonnarScanner for Maven]](https://stackoverflow.com/questions/69725549/sonarqube-analysis-total-time-duration-sonnarscanner-for-maven/69728739#69728739)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -73,5 +68,5 @@ Terraform, ELK, Ansible, Sonarqube and Docker, but I sure can work on other tool
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Fri, 04 Mar 2022 00:25:12 GMT
+⏰ Updated on Sat, 05 Mar 2022 00:22:00 GMT
 
