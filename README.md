@@ -36,12 +36,7 @@ Terraform, ELK, Ansible, Sonarqube and Docker, but I sure can work on other tool
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav Atta for Java log parsing with logstash grok](https://stackoverflow.com/questions/71843978/java-log-parsing-with-logstash-grok/72065635#72065635)
-- [Answer by Sourav Atta for GROK pattern not returning results](https://stackoverflow.com/questions/72063657/grok-pattern-not-returning-results/72065487#72065487)
-- [Answer by Sourav Atta for CI/CD with Jenkins](https://stackoverflow.com/questions/71231188/ci-cd-with-jenkins/71231446#71231446)
-- [Answer by Sourav Atta for Elastic Grok Pattern Netscaler example?](https://stackoverflow.com/questions/71166155/elastic-grok-pattern-netscaler-example/71218959#71218959)
-- [Answer by Sourav Atta for logstash: wso api manager logs to elastic](https://stackoverflow.com/questions/70316567/logstash-wso-api-manager-logs-to-elastic/70324705#70324705)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -73,5 +68,5 @@ Terraform, ELK, Ansible, Sonarqube and Docker, but I sure can work on other tool
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Sun, 15 May 2022 00:37:06 GMT
+⏰ Updated on Mon, 16 May 2022 00:28:41 GMT
 
