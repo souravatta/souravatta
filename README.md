@@ -36,7 +36,12 @@ Terraform, ELK, Ansible, Sonarqube and Docker, but I sure can work on other tool
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav for Java log parsing with logstash grok](https://stackoverflow.com/questions/71843978/java-log-parsing-with-logstash-grok/72065635#72065635)
+- [Answer by Sourav for GROK pattern not returning results](https://stackoverflow.com/questions/72063657/grok-pattern-not-returning-results/72065487#72065487)
+- [Answer by Sourav for CI/CD with Jenkins](https://stackoverflow.com/questions/71231188/ci-cd-with-jenkins/71231446#71231446)
+- [Answer by Sourav for Elastic Grok Pattern Netscaler example?](https://stackoverflow.com/questions/71166155/elastic-grok-pattern-netscaler-example/71218959#71218959)
+- [Answer by Sourav for logstash: wso api manager logs to elastic](https://stackoverflow.com/questions/70316567/logstash-wso-api-manager-logs-to-elastic/70324705#70324705)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
