@@ -36,12 +36,7 @@ Terraform, ELK, Ansible, Sonarqube and Docker, but I sure can work on other tool
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav for How to take multiple values ​separated by spaces with grok](https://stackoverflow.com/questions/73212796/how-to-take-multiple-values-separated-by-spaces-with-grok/73220020#73220020)
-- [Answer by Sourav for Java log parsing with logstash grok](https://stackoverflow.com/questions/71843978/java-log-parsing-with-logstash-grok/72065635#72065635)
-- [Answer by Sourav for GROK pattern not returning results](https://stackoverflow.com/questions/72063657/grok-pattern-not-returning-results/72065487#72065487)
-- [Answer by Sourav for CI/CD with Jenkins](https://stackoverflow.com/questions/71231188/ci-cd-with-jenkins/71231446#71231446)
-- [Answer by Sourav for Elastic Grok Pattern Netscaler example?](https://stackoverflow.com/questions/71166155/elastic-grok-pattern-netscaler-example/71218959#71218959)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -73,5 +68,5 @@ Terraform, ELK, Ansible, Sonarqube and Docker, but I sure can work on other tool
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Sun, 21 Aug 2022 00:28:33 GMT
+⏰ Updated on Mon, 22 Aug 2022 00:33:33 GMT
 
