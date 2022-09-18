@@ -36,7 +36,12 @@ Terraform, ELK, Ansible, Sonarqube and Docker, but I sure can work on other tool
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav for Logstash - Grok Syntax Issues](https://stackoverflow.com/questions/73470733/logstash-grok-syntax-issues/73519973#73519973)
+- [Answer by Sourav for How to take multiple values ​separated by spaces with grok](https://stackoverflow.com/questions/73212796/how-to-take-multiple-values-separated-by-spaces-with-grok/73220020#73220020)
+- [Answer by Sourav for Java log parsing with logstash grok](https://stackoverflow.com/questions/71843978/java-log-parsing-with-logstash-grok/72065635#72065635)
+- [Answer by Sourav for GROK pattern not returning results](https://stackoverflow.com/questions/72063657/grok-pattern-not-returning-results/72065487#72065487)
+- [Answer by Sourav for CI/CD with Jenkins](https://stackoverflow.com/questions/71231188/ci-cd-with-jenkins/71231446#71231446)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
