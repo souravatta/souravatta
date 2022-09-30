@@ -36,7 +36,12 @@ Terraform, ELK, Ansible, Sonarqube and Docker, but I sure can work on other tool
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+- [Answer by Sourav for What is the grok pattern for this custom log line?](https://stackoverflow.com/questions/73892422/what-is-the-grok-pattern-for-this-custom-log-line/73903824#73903824)
+- [Answer by Sourav for How to get a date string of 3 day3 ago or a day ago by current day of week in Jenkins pipeline script?](https://stackoverflow.com/questions/73848914/how-to-get-a-date-string-of-3-day3-ago-or-a-day-ago-by-current-day-of-week-in-je/73849821#73849821)
+- [Answer by Sourav for Logstash - Grok Syntax Issues](https://stackoverflow.com/questions/73470733/logstash-grok-syntax-issues/73519973#73519973)
+- [Answer by Sourav for How to take multiple values ​separated by spaces with grok](https://stackoverflow.com/questions/73212796/how-to-take-multiple-values-separated-by-spaces-with-grok/73220020#73220020)
+- [Answer by Sourav for Java log parsing with logstash grok](https://stackoverflow.com/questions/71843978/java-log-parsing-with-logstash-grok/72065635#72065635)
+<!-- STACKOVERFLOW:END -->
 
   </p>
 
