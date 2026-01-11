@@ -36,12 +36,7 @@ Terraform, ELK, Ansible, Sonarqube and Docker, but I sure can work on other tool
 
   **StackOverflow Activity**
   <!-- STACKOVERFLOW:START -->
-- [Answer by Sourav for SonarQube api api/project_analyses/search fails with 403 &quot;msg&quot;: &quot;Insufficient privileges&quot; yet API key user is admin](https://stackoverflow.com/questions/74823133/sonarqube-api-api-project-analyses-search-fails-with-403-msg-insufficient-pr/75048935#75048935)
-- [Answer by Sourav for How do i pass user input values from html in Active Choice reference parameter to &quot;Execute shell&quot; step in jenkins freestyle job?](https://stackoverflow.com/questions/74082884/how-do-i-pass-user-input-values-from-html-in-active-choice-reference-parameter-t/74085026#74085026)
-- [Answer by Sourav for Grok Pattern to Parse Multiple loglines](https://stackoverflow.com/questions/73954585/grok-pattern-to-parse-multiple-loglines/73956834#73956834)
-- [Answer by Sourav for What is the grok pattern for this custom log line?](https://stackoverflow.com/questions/73892422/what-is-the-grok-pattern-for-this-custom-log-line/73903824#73903824)
-- [Answer by Sourav for How to get a date string of 3 day3 ago or a day ago by current day of week in Jenkins pipeline script?](https://stackoverflow.com/questions/73848914/how-to-get-a-date-string-of-3-day3-ago-or-a-day-ago-by-current-day-of-week-in-je/73849821#73849821)
-<!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:END -->
 
   </p>
 
@@ -73,5 +68,5 @@ Terraform, ELK, Ansible, Sonarqube and Docker, but I sure can work on other tool
 |API Automation                |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 |Service Virtualization        |![](https://img.shields.io/badge/TOSCA%20OSV-5-red?labelColor=7D898B)                                                               |
 
-⏰ Updated on Sat, 10 Jan 2026 00:43:51 GMT
+⏰ Updated on Sun, 11 Jan 2026 00:51:20 GMT
 
